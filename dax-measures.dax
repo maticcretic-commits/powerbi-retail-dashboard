@@ -1,0 +1,87 @@
+-- =====================================================================
+-- Retail Sales Dashboard — DAX measures
+-- Paste into Power BI Desktop: Modeling → New measure (one per block).
+-- Requires the star schema in data-model.md and Calendar marked as the
+-- date table. All measures tested against data/retail_sales.csv.
+-- =====================================================================
+
+-- Headline KPIs ---------------------------------------------------------
+
+Total Revenue =
+SUM ( Sales[Revenue] )
+
+Total Orders =
+DISTINCTCOUNT ( Sales[OrderID] )
+
+Total Units =
+SUM ( Sales[Units] )
+
+Avg Basket Size =
+DIVIDE ( [Total Revenue], [Total Orders] )
+
+-- Time intelligence (needs the Calendar date table) ---------------------
+
+Revenue YTD =
+CALCULATE (
+    [Total Revenue],
+    DATESYTD ( 'Calendar'[Date] )
+)
+
+Revenue MoM % =
+VAR CurrentMonth = [Total Revenue]
+VAR PrevMonth =
+    CALCULATE (
+        [Total Revenue],
+        PREVIOUSMONTH ( 'Calendar'[Date] )
+    )
+RETURN
+    DIVIDE ( CurrentMonth - PrevMonth, PrevMonth )
+
+Revenue YoY % =
+VAR CurrentPeriod = [Total Revenue]
+VAR PriorYear =
+    CALCULATE (
+        [Total Revenue],
+        SAMEPERIODLASTYEAR ( 'Calendar'[Date] )
+    )
+RETURN
+    DIVIDE ( CurrentPeriod - PriorYear, PriorYear )
+
+-- Product & channel analysis --------------------------------------------
+
+Top 5 Products Revenue =
+CALCULATE (
+    [Total Revenue],
+    TOPN ( 5, ALL ( Products[Product] ), [Total Revenue], DESC )
+)
+
+Online Share % =
+DIVIDE (
+    CALCULATE ( [Total Revenue], Sales[Channel] = "Online" ),
+    [Total Revenue]
+)
+
+-- Dynamic segmentation: flag high-value orders, then slice anything by it --
+
+Is High-Value Order =
+-- calculated column on Sales (not a measure):
+-- IF ( Sales[Revenue] >= 5000, "High Value", "Standard" )
+
+High-Value Order Count =
+COUNTROWS (
+    FILTER ( Sales, Sales[Revenue] >= 5000 )
+)
+
+High-Value Share % =
+DIVIDE ( [High-Value Order Count], [Total Orders] )
+
+-- Store ranking ----------------------------------------------------------
+
+Store Rank by Revenue =
+RANKX (
+    ALL ( Stores[Store] ),
+    [Total Revenue],
+    ,
+    DESC,
+    DENSE
+)
