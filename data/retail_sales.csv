@@ -1,0 +1,1501 @@
+OrderID,Date,Store,Product,Category,Units,UnitPrice,Revenue,Channel
+SO-200001,2025-03-04,Whitefield,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200002,2025-05-01,JP Nagar,Watch,Accessories,2,5999,11998,Offline
+SO-200003,2024-01-15,JP Nagar,Backpack,Accessories,3,1499,4497,Online
+SO-200004,2024-08-25,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200005,2025-02-20,Koramangala,Watch,Accessories,4,5999,23996,Offline
+SO-200006,2024-04-28,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-200007,2024-05-07,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-200008,2025-02-14,Indiranagar,Jacket,Apparel,4,3499,13996,Online
+SO-200009,2024-08-28,Indiranagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-200010,2025-08-17,Koramangala,Watch,Accessories,1,5999,5999,Offline
+SO-200011,2025-02-01,HSR Layout,Jeans,Apparel,2,1999,3998,Offline
+SO-200012,2025-02-23,HSR Layout,Cap,Accessories,3,499,1497,Offline
+SO-200013,2024-11-21,HSR Layout,T-Shirt,Apparel,5,799,3995,Online
+SO-200014,2025-05-22,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-200015,2025-06-18,JP Nagar,Jeans,Apparel,2,1999,3998,Offline
+SO-200016,2025-09-29,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200017,2024-12-06,HSR Layout,Jeans,Apparel,5,1999,9995,Online
+SO-200018,2024-06-27,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-200019,2025-06-16,Whitefield,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200020,2025-08-27,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200021,2024-09-10,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200022,2025-02-21,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200023,2024-09-21,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-200024,2024-03-12,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200025,2025-05-05,HSR Layout,Jacket,Apparel,1,3499,3499,Online
+SO-200026,2025-05-05,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200027,2024-06-06,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200028,2025-05-03,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200029,2024-01-11,Indiranagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-200030,2025-08-30,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200031,2024-09-20,Indiranagar,Jeans,Apparel,4,1999,7996,Online
+SO-200032,2024-04-06,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200033,2024-03-14,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-200034,2024-11-28,Indiranagar,Jeans,Apparel,5,1999,9995,Offline
+SO-200035,2025-01-21,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200036,2025-05-31,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-200037,2025-02-11,Indiranagar,Cap,Accessories,2,499,998,Online
+SO-200038,2024-11-17,Whitefield,Jacket,Apparel,1,3499,3499,Online
+SO-200039,2024-10-29,Koramangala,Jacket,Apparel,6,3499,20994,Offline
+SO-200040,2025-09-01,JP Nagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200041,2025-06-22,Koramangala,Jacket,Apparel,2,3499,6998,Offline
+SO-200042,2024-07-25,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200043,2024-04-20,Koramangala,Watch,Accessories,1,5999,5999,Offline
+SO-200044,2025-04-03,Whitefield,Backpack,Accessories,1,1499,1499,Offline
+SO-200045,2025-02-15,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-200046,2024-02-13,HSR Layout,Jeans,Apparel,2,1999,3998,Offline
+SO-200047,2025-03-13,Indiranagar,Backpack,Accessories,4,1499,5996,Online
+SO-200048,2024-08-21,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-200049,2025-09-11,Whitefield,T-Shirt,Apparel,2,799,1598,Offline
+SO-200050,2025-09-12,Indiranagar,Jacket,Apparel,3,3499,10497,Offline
+SO-200051,2024-11-09,Koramangala,T-Shirt,Apparel,6,799,4794,Online
+SO-200052,2025-02-04,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200053,2024-11-05,Whitefield,Running Shoes,Footwear,6,2999,17994,Offline
+SO-200054,2024-06-19,Indiranagar,Watch,Accessories,4,5999,23996,Offline
+SO-200055,2025-08-18,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-200056,2025-06-11,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200057,2024-09-01,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200058,2025-02-15,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-200059,2024-06-27,JP Nagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200060,2024-08-08,HSR Layout,Sneakers,Footwear,1,3999,3999,Offline
+SO-200061,2025-01-11,Koramangala,Cap,Accessories,1,499,499,Offline
+SO-200062,2025-09-14,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-200063,2025-07-11,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200064,2025-01-14,HSR Layout,Sneakers,Footwear,1,3999,3999,Online
+SO-200065,2025-03-18,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-200066,2025-07-19,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200067,2025-08-21,Koramangala,Backpack,Accessories,4,1499,5996,Offline
+SO-200068,2025-03-22,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200069,2025-09-13,Whitefield,Backpack,Accessories,4,1499,5996,Offline
+SO-200070,2024-06-05,Indiranagar,Jeans,Apparel,3,1999,5997,Online
+SO-200071,2024-01-10,Koramangala,Sneakers,Footwear,1,3999,3999,Online
+SO-200072,2024-07-13,HSR Layout,Running Shoes,Footwear,3,2999,8997,Online
+SO-200073,2025-08-22,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200074,2024-06-10,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-200075,2024-09-13,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200076,2025-06-21,Koramangala,Jacket,Apparel,4,3499,13996,Online
+SO-200077,2025-05-29,HSR Layout,Sneakers,Footwear,1,3999,3999,Offline
+SO-200078,2024-06-27,HSR Layout,Jeans,Apparel,1,1999,1999,Offline
+SO-200079,2025-03-28,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200080,2025-09-22,HSR Layout,Sneakers,Footwear,1,3999,3999,Online
+SO-200081,2025-01-10,HSR Layout,Watch,Accessories,1,5999,5999,Online
+SO-200082,2024-01-26,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200083,2025-05-27,Indiranagar,Watch,Accessories,4,5999,23996,Online
+SO-200084,2024-10-19,HSR Layout,T-Shirt,Apparel,6,799,4794,Offline
+SO-200085,2025-09-05,HSR Layout,Sneakers,Footwear,2,3999,7998,Offline
+SO-200086,2025-01-05,Koramangala,Backpack,Accessories,2,1499,2998,Offline
+SO-200087,2024-01-27,Koramangala,Watch,Accessories,2,5999,11998,Online
+SO-200088,2025-01-14,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-200089,2025-09-20,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-200090,2024-09-16,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-200091,2025-05-03,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200092,2024-02-06,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200093,2024-05-22,Indiranagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200094,2024-01-04,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200095,2025-05-12,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200096,2024-02-26,HSR Layout,T-Shirt,Apparel,1,799,799,Offline
+SO-200097,2024-12-07,Whitefield,Running Shoes,Footwear,5,2999,14995,Offline
+SO-200098,2024-03-13,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200099,2025-04-14,Indiranagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-200100,2024-03-20,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200101,2024-09-28,JP Nagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-200102,2024-07-30,Whitefield,Sneakers,Footwear,2,3999,7998,Offline
+SO-200103,2024-02-02,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200104,2024-05-24,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200105,2024-03-02,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200106,2024-08-26,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200107,2025-01-17,Koramangala,Watch,Accessories,4,5999,23996,Offline
+SO-200108,2024-12-20,Whitefield,T-Shirt,Apparel,5,799,3995,Offline
+SO-200109,2025-03-25,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-200110,2024-08-14,HSR Layout,Cap,Accessories,1,499,499,Offline
+SO-200111,2024-10-04,HSR Layout,Running Shoes,Footwear,5,2999,14995,Online
+SO-200112,2025-04-12,Indiranagar,Watch,Accessories,2,5999,11998,Online
+SO-200113,2024-06-05,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-200114,2024-04-28,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-200115,2024-08-01,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200116,2025-08-04,Indiranagar,Sneakers,Footwear,1,3999,3999,Online
+SO-200117,2025-06-16,Whitefield,Jeans,Apparel,1,1999,1999,Online
+SO-200118,2025-01-01,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-200119,2025-02-17,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200120,2024-09-20,HSR Layout,Jeans,Apparel,4,1999,7996,Offline
+SO-200121,2024-12-15,Whitefield,Running Shoes,Footwear,5,2999,14995,Offline
+SO-200122,2024-10-27,HSR Layout,T-Shirt,Apparel,1,799,799,Offline
+SO-200123,2024-05-21,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-200124,2025-03-29,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200125,2025-03-11,Whitefield,Cap,Accessories,1,499,499,Online
+SO-200126,2024-07-22,Whitefield,Cap,Accessories,1,499,499,Offline
+SO-200127,2025-03-21,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-200128,2024-02-02,Indiranagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200129,2024-01-14,Whitefield,Watch,Accessories,2,5999,11998,Online
+SO-200130,2025-01-19,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-200131,2024-07-04,Whitefield,Cap,Accessories,3,499,1497,Online
+SO-200132,2024-05-29,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-200133,2024-11-07,Whitefield,Sneakers,Footwear,5,3999,19995,Offline
+SO-200134,2025-02-08,JP Nagar,Backpack,Accessories,1,1499,1499,Online
+SO-200135,2025-09-19,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200136,2025-01-21,Whitefield,Cap,Accessories,2,499,998,Offline
+SO-200137,2024-08-04,Whitefield,Jeans,Apparel,2,1999,3998,Online
+SO-200138,2024-05-12,Koramangala,Cap,Accessories,4,499,1996,Online
+SO-200139,2024-04-04,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-200140,2024-03-17,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200141,2025-04-01,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-200142,2025-07-21,HSR Layout,Watch,Accessories,1,5999,5999,Online
+SO-200143,2024-09-20,HSR Layout,Jacket,Apparel,4,3499,13996,Offline
+SO-200144,2024-12-23,HSR Layout,Sneakers,Footwear,4,3999,15996,Offline
+SO-200145,2024-07-28,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-200146,2024-01-04,Koramangala,Backpack,Accessories,3,1499,4497,Online
+SO-200147,2024-08-06,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-200148,2025-08-09,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200149,2024-06-21,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-200150,2025-02-26,HSR Layout,Jacket,Apparel,3,3499,10497,Online
+SO-200151,2024-10-30,HSR Layout,T-Shirt,Apparel,1,799,799,Online
+SO-200152,2025-03-19,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200153,2025-04-20,Indiranagar,Cap,Accessories,4,499,1996,Online
+SO-200154,2024-02-21,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200155,2025-05-13,JP Nagar,Jacket,Apparel,2,3499,6998,Offline
+SO-200156,2024-01-10,HSR Layout,Jeans,Apparel,1,1999,1999,Offline
+SO-200157,2024-01-02,Whitefield,Jacket,Apparel,1,3499,3499,Online
+SO-200158,2025-09-12,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-200159,2025-08-02,Indiranagar,Sneakers,Footwear,3,3999,11997,Online
+SO-200160,2024-05-25,Whitefield,Cap,Accessories,2,499,998,Offline
+SO-200161,2024-12-26,Koramangala,Jeans,Apparel,6,1999,11994,Online
+SO-200162,2024-03-21,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200163,2025-06-11,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200164,2025-08-08,HSR Layout,Backpack,Accessories,3,1499,4497,Offline
+SO-200165,2025-07-01,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200166,2024-09-27,Indiranagar,Cap,Accessories,2,499,998,Offline
+SO-200167,2024-06-18,Indiranagar,Jeans,Apparel,1,1999,1999,Online
+SO-200168,2025-03-09,Indiranagar,Jacket,Apparel,3,3499,10497,Offline
+SO-200169,2025-09-11,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200170,2025-07-04,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200171,2024-08-30,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-200172,2025-02-10,JP Nagar,Backpack,Accessories,3,1499,4497,Offline
+SO-200173,2024-01-16,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200174,2024-09-23,Whitefield,Cap,Accessories,4,499,1996,Online
+SO-200175,2024-08-24,HSR Layout,Jacket,Apparel,1,3499,3499,Online
+SO-200176,2025-06-26,JP Nagar,Watch,Accessories,4,5999,23996,Online
+SO-200177,2024-08-27,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-200178,2024-08-19,JP Nagar,Backpack,Accessories,2,1499,2998,Online
+SO-200179,2025-09-11,Koramangala,Jeans,Apparel,1,1999,1999,Offline
+SO-200180,2025-05-07,Indiranagar,Backpack,Accessories,2,1499,2998,Offline
+SO-200181,2024-11-05,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200182,2025-01-24,Indiranagar,Cap,Accessories,4,499,1996,Online
+SO-200183,2024-12-17,Indiranagar,Watch,Accessories,3,5999,17997,Offline
+SO-200184,2024-04-11,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-200185,2024-12-11,Whitefield,Watch,Accessories,6,5999,35994,Online
+SO-200186,2025-02-15,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200187,2025-06-12,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200188,2025-02-11,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200189,2025-09-24,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-200190,2025-08-11,Indiranagar,Cap,Accessories,3,499,1497,Offline
+SO-200191,2025-07-26,Indiranagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-200192,2025-03-21,HSR Layout,Cap,Accessories,4,499,1996,Offline
+SO-200193,2024-07-13,HSR Layout,Cap,Accessories,3,499,1497,Offline
+SO-200194,2024-10-16,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-200195,2024-04-30,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-200196,2025-03-09,Whitefield,Backpack,Accessories,3,1499,4497,Online
+SO-200197,2024-05-22,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200198,2025-01-15,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200199,2025-02-13,Koramangala,Watch,Accessories,4,5999,23996,Offline
+SO-200200,2024-05-28,JP Nagar,Jacket,Apparel,1,3499,3499,Online
+SO-200201,2025-05-20,Whitefield,Watch,Accessories,2,5999,11998,Offline
+SO-200202,2024-07-30,Indiranagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-200203,2024-12-07,Indiranagar,Sneakers,Footwear,6,3999,23994,Offline
+SO-200204,2024-10-15,HSR Layout,Cap,Accessories,3,499,1497,Offline
+SO-200205,2024-02-07,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-200206,2024-03-04,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200207,2024-01-21,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200208,2025-08-26,HSR Layout,Jeans,Apparel,4,1999,7996,Offline
+SO-200209,2024-03-23,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200210,2024-07-07,Indiranagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-200211,2025-08-05,HSR Layout,Cap,Accessories,1,499,499,Offline
+SO-200212,2025-09-23,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200213,2024-03-30,Whitefield,Sneakers,Footwear,3,3999,11997,Offline
+SO-200214,2024-09-13,Whitefield,Backpack,Accessories,1,1499,1499,Offline
+SO-200215,2024-12-14,HSR Layout,Jacket,Apparel,4,3499,13996,Online
+SO-200216,2025-05-03,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200217,2025-05-06,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-200218,2024-02-11,JP Nagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200219,2024-07-25,HSR Layout,Cap,Accessories,2,499,998,Offline
+SO-200220,2024-05-27,HSR Layout,Sneakers,Footwear,2,3999,7998,Online
+SO-200221,2024-10-13,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200222,2025-09-06,HSR Layout,Cap,Accessories,2,499,998,Offline
+SO-200223,2024-09-30,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200224,2025-02-21,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-200225,2024-01-10,JP Nagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-200226,2025-05-20,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-200227,2025-06-15,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200228,2025-06-27,HSR Layout,Sneakers,Footwear,1,3999,3999,Offline
+SO-200229,2025-05-30,HSR Layout,Watch,Accessories,4,5999,23996,Online
+SO-200230,2024-10-18,Indiranagar,Cap,Accessories,2,499,998,Online
+SO-200231,2024-07-09,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-200232,2024-12-18,Whitefield,Jacket,Apparel,4,3499,13996,Online
+SO-200233,2024-08-15,JP Nagar,Backpack,Accessories,2,1499,2998,Offline
+SO-200234,2025-05-17,Whitefield,Jacket,Apparel,1,3499,3499,Online
+SO-200235,2024-06-02,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200236,2025-04-29,HSR Layout,Jeans,Apparel,4,1999,7996,Online
+SO-200237,2025-08-07,JP Nagar,T-Shirt,Apparel,2,799,1598,Online
+SO-200238,2024-11-02,Koramangala,T-Shirt,Apparel,5,799,3995,Online
+SO-200239,2025-02-01,Whitefield,Jacket,Apparel,3,3499,10497,Online
+SO-200240,2024-06-21,Koramangala,Backpack,Accessories,1,1499,1499,Online
+SO-200241,2025-03-16,JP Nagar,Jacket,Apparel,1,3499,3499,Offline
+SO-200242,2024-07-27,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-200243,2025-05-17,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200244,2025-03-16,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200245,2024-02-29,Indiranagar,Backpack,Accessories,3,1499,4497,Offline
+SO-200246,2025-09-30,HSR Layout,Sneakers,Footwear,1,3999,3999,Online
+SO-200247,2025-02-09,JP Nagar,T-Shirt,Apparel,1,799,799,Online
+SO-200248,2025-04-07,HSR Layout,Jeans,Apparel,4,1999,7996,Offline
+SO-200249,2024-08-15,Indiranagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-200250,2025-04-15,HSR Layout,T-Shirt,Apparel,1,799,799,Offline
+SO-200251,2024-12-24,JP Nagar,Backpack,Accessories,6,1499,8994,Offline
+SO-200252,2024-02-07,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200253,2024-04-08,Koramangala,Backpack,Accessories,3,1499,4497,Offline
+SO-200254,2025-07-18,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200255,2024-05-25,HSR Layout,Jacket,Apparel,3,3499,10497,Online
+SO-200256,2024-05-27,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200257,2024-05-12,JP Nagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200258,2024-09-22,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200259,2025-01-04,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-200260,2024-10-10,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-200261,2024-11-28,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-200262,2025-03-21,Whitefield,Sneakers,Footwear,2,3999,7998,Offline
+SO-200263,2024-10-10,Whitefield,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200264,2024-06-11,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-200265,2025-01-10,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200266,2024-11-04,Indiranagar,Watch,Accessories,2,5999,11998,Online
+SO-200267,2024-04-11,Indiranagar,Jeans,Apparel,1,1999,1999,Online
+SO-200268,2024-12-11,Koramangala,Watch,Accessories,2,5999,11998,Offline
+SO-200269,2025-06-07,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-200270,2025-03-24,HSR Layout,Watch,Accessories,1,5999,5999,Offline
+SO-200271,2025-04-11,Whitefield,Jeans,Apparel,2,1999,3998,Online
+SO-200272,2024-09-10,Indiranagar,Backpack,Accessories,4,1499,5996,Online
+SO-200273,2024-07-28,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200274,2025-01-15,JP Nagar,Watch,Accessories,2,5999,11998,Online
+SO-200275,2024-01-31,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-200276,2025-04-02,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-200277,2025-05-27,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200278,2024-02-15,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200279,2024-01-10,HSR Layout,Cap,Accessories,2,499,998,Offline
+SO-200280,2025-09-07,Indiranagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200281,2024-11-21,JP Nagar,Jeans,Apparel,6,1999,11994,Online
+SO-200282,2025-02-28,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-200283,2024-04-22,HSR Layout,Jeans,Apparel,3,1999,5997,Online
+SO-200284,2025-04-23,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200285,2024-01-29,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200286,2025-05-11,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200287,2025-02-12,Whitefield,Cap,Accessories,4,499,1996,Offline
+SO-200288,2024-06-09,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-200289,2025-08-28,JP Nagar,Sneakers,Footwear,1,3999,3999,Online
+SO-200290,2024-08-14,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-200291,2025-01-19,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200292,2025-06-08,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200293,2025-03-20,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200294,2024-04-15,Whitefield,Watch,Accessories,1,5999,5999,Offline
+SO-200295,2024-03-24,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200296,2024-06-23,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200297,2024-04-12,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200298,2024-08-22,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-200299,2024-10-15,JP Nagar,Backpack,Accessories,6,1499,8994,Offline
+SO-200300,2025-09-14,HSR Layout,Jeans,Apparel,3,1999,5997,Online
+SO-200301,2025-08-01,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200302,2024-07-26,JP Nagar,Jacket,Apparel,3,3499,10497,Online
+SO-200303,2024-06-10,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-200304,2024-04-01,Indiranagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200305,2025-01-17,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-200306,2024-01-24,Indiranagar,Backpack,Accessories,4,1499,5996,Online
+SO-200307,2024-12-18,Whitefield,Jeans,Apparel,6,1999,11994,Online
+SO-200308,2024-05-07,JP Nagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200309,2025-02-11,HSR Layout,Cap,Accessories,2,499,998,Offline
+SO-200310,2024-09-04,Indiranagar,Backpack,Accessories,1,1499,1499,Online
+SO-200311,2025-09-23,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200312,2024-12-31,Whitefield,Cap,Accessories,1,499,499,Offline
+SO-200313,2024-06-18,HSR Layout,Cap,Accessories,1,499,499,Online
+SO-200314,2024-03-01,Whitefield,Cap,Accessories,2,499,998,Offline
+SO-200315,2025-04-07,Indiranagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200316,2024-03-16,Whitefield,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200317,2025-05-01,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200318,2025-08-01,HSR Layout,Jeans,Apparel,2,1999,3998,Offline
+SO-200319,2024-09-30,Koramangala,Watch,Accessories,1,5999,5999,Online
+SO-200320,2024-02-23,HSR Layout,Cap,Accessories,4,499,1996,Offline
+SO-200321,2024-06-21,JP Nagar,Watch,Accessories,4,5999,23996,Online
+SO-200322,2025-06-22,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200323,2025-05-31,HSR Layout,Cap,Accessories,4,499,1996,Offline
+SO-200324,2024-05-29,JP Nagar,Jeans,Apparel,4,1999,7996,Online
+SO-200325,2024-02-23,Indiranagar,Watch,Accessories,1,5999,5999,Online
+SO-200326,2024-12-23,Koramangala,Jacket,Apparel,4,3499,13996,Offline
+SO-200327,2024-10-04,Koramangala,Cap,Accessories,4,499,1996,Online
+SO-200328,2024-12-18,HSR Layout,Backpack,Accessories,2,1499,2998,Online
+SO-200329,2024-06-12,Koramangala,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200330,2024-04-30,JP Nagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200331,2024-05-04,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-200332,2024-09-15,Indiranagar,Jacket,Apparel,1,3499,3499,Online
+SO-200333,2024-08-11,Indiranagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-200334,2024-07-12,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200335,2025-02-08,HSR Layout,Sneakers,Footwear,4,3999,15996,Online
+SO-200336,2025-02-19,HSR Layout,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200337,2025-01-01,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200338,2024-05-12,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200339,2024-03-13,Indiranagar,Jeans,Apparel,3,1999,5997,Online
+SO-200340,2025-05-07,Indiranagar,T-Shirt,Apparel,2,799,1598,Online
+SO-200341,2024-03-16,Koramangala,Jacket,Apparel,1,3499,3499,Offline
+SO-200342,2025-04-05,Indiranagar,Cap,Accessories,2,499,998,Offline
+SO-200343,2025-02-02,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-200344,2024-08-20,HSR Layout,Cap,Accessories,1,499,499,Offline
+SO-200345,2024-10-08,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200346,2024-04-24,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200347,2024-03-14,JP Nagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200348,2024-09-13,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-200349,2025-08-13,Koramangala,Backpack,Accessories,3,1499,4497,Offline
+SO-200350,2024-12-05,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200351,2025-07-04,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200352,2025-09-22,HSR Layout,Backpack,Accessories,3,1499,4497,Offline
+SO-200353,2024-03-02,Koramangala,T-Shirt,Apparel,2,799,1598,Online
+SO-200354,2025-04-09,Whitefield,Jacket,Apparel,1,3499,3499,Online
+SO-200355,2024-02-24,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200356,2024-03-28,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200357,2025-02-12,Koramangala,Jacket,Apparel,3,3499,10497,Online
+SO-200358,2024-09-06,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200359,2024-10-22,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200360,2024-05-24,Koramangala,Jacket,Apparel,3,3499,10497,Offline
+SO-200361,2025-09-16,JP Nagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200362,2024-11-21,JP Nagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200363,2024-11-27,Koramangala,Watch,Accessories,5,5999,29995,Offline
+SO-200364,2024-11-13,JP Nagar,Watch,Accessories,5,5999,29995,Online
+SO-200365,2025-07-13,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-200366,2025-07-05,Indiranagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200367,2025-04-23,JP Nagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200368,2025-04-11,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-200369,2025-06-02,Koramangala,Cap,Accessories,2,499,998,Online
+SO-200370,2024-11-09,Indiranagar,T-Shirt,Apparel,5,799,3995,Online
+SO-200371,2024-05-02,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200372,2025-08-09,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200373,2025-01-04,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200374,2025-03-27,Koramangala,Jacket,Apparel,3,3499,10497,Online
+SO-200375,2024-03-03,HSR Layout,Jeans,Apparel,1,1999,1999,Offline
+SO-200376,2025-04-14,Indiranagar,Backpack,Accessories,4,1499,5996,Online
+SO-200377,2025-01-09,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-200378,2024-04-24,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200379,2024-04-23,Indiranagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200380,2024-04-12,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-200381,2024-11-01,HSR Layout,Jeans,Apparel,2,1999,3998,Offline
+SO-200382,2024-11-19,Koramangala,Jeans,Apparel,1,1999,1999,Offline
+SO-200383,2024-03-13,HSR Layout,Sneakers,Footwear,4,3999,15996,Online
+SO-200384,2024-02-20,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200385,2024-08-21,HSR Layout,Jeans,Apparel,4,1999,7996,Online
+SO-200386,2025-05-04,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200387,2025-01-09,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200388,2024-10-07,Koramangala,T-Shirt,Apparel,4,799,3196,Online
+SO-200389,2025-03-22,Koramangala,Jacket,Apparel,4,3499,13996,Offline
+SO-200390,2024-03-16,HSR Layout,Jacket,Apparel,3,3499,10497,Offline
+SO-200391,2025-03-20,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-200392,2025-03-31,HSR Layout,T-Shirt,Apparel,4,799,3196,Online
+SO-200393,2024-02-06,JP Nagar,Watch,Accessories,1,5999,5999,Offline
+SO-200394,2024-04-23,Whitefield,Sneakers,Footwear,4,3999,15996,Offline
+SO-200395,2024-08-29,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200396,2025-01-13,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200397,2025-07-29,JP Nagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200398,2025-02-12,JP Nagar,Jeans,Apparel,1,1999,1999,Online
+SO-200399,2025-05-02,Koramangala,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200400,2024-02-13,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-200401,2025-08-14,Koramangala,Jacket,Apparel,4,3499,13996,Offline
+SO-200402,2024-09-24,Koramangala,Running Shoes,Footwear,1,2999,2999,Online
+SO-200403,2024-04-19,JP Nagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200404,2025-04-22,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200405,2024-09-24,HSR Layout,Backpack,Accessories,2,1499,2998,Online
+SO-200406,2024-05-01,Whitefield,Sneakers,Footwear,1,3999,3999,Offline
+SO-200407,2025-09-26,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200408,2025-01-12,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-200409,2025-08-30,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-200410,2025-02-07,Whitefield,Backpack,Accessories,4,1499,5996,Offline
+SO-200411,2025-08-23,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200412,2025-05-22,JP Nagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-200413,2025-08-12,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200414,2024-02-02,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-200415,2024-10-24,JP Nagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200416,2024-09-09,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200417,2025-07-02,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200418,2025-01-08,JP Nagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200419,2024-02-02,Whitefield,Jeans,Apparel,1,1999,1999,Online
+SO-200420,2024-09-12,HSR Layout,T-Shirt,Apparel,1,799,799,Online
+SO-200421,2024-05-20,Koramangala,Backpack,Accessories,4,1499,5996,Offline
+SO-200422,2024-03-23,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200423,2024-07-11,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200424,2025-05-18,HSR Layout,Backpack,Accessories,2,1499,2998,Online
+SO-200425,2024-06-25,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-200426,2024-09-08,Whitefield,Sneakers,Footwear,4,3999,15996,Offline
+SO-200427,2025-07-21,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-200428,2025-09-18,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200429,2025-04-18,Whitefield,Watch,Accessories,2,5999,11998,Online
+SO-200430,2025-07-25,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200431,2024-10-12,Koramangala,Cap,Accessories,5,499,2495,Offline
+SO-200432,2025-01-11,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200433,2024-02-03,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-200434,2024-04-03,Whitefield,Sneakers,Footwear,3,3999,11997,Offline
+SO-200435,2024-12-08,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200436,2024-05-26,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200437,2024-11-10,JP Nagar,Backpack,Accessories,4,1499,5996,Offline
+SO-200438,2025-06-21,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-200439,2025-05-31,JP Nagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200440,2024-10-16,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200441,2025-08-26,HSR Layout,Running Shoes,Footwear,1,2999,2999,Online
+SO-200442,2025-04-25,HSR Layout,T-Shirt,Apparel,1,799,799,Offline
+SO-200443,2024-07-03,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200444,2024-03-08,JP Nagar,Cap,Accessories,3,499,1497,Online
+SO-200445,2025-07-21,Koramangala,Backpack,Accessories,2,1499,2998,Offline
+SO-200446,2024-02-19,HSR Layout,Jeans,Apparel,3,1999,5997,Online
+SO-200447,2025-07-15,Koramangala,Jacket,Apparel,3,3499,10497,Offline
+SO-200448,2024-11-22,Indiranagar,Backpack,Accessories,3,1499,4497,Online
+SO-200449,2024-08-04,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200450,2024-05-30,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200451,2025-04-25,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200452,2024-11-05,HSR Layout,Watch,Accessories,3,5999,17997,Offline
+SO-200453,2025-06-01,HSR Layout,Backpack,Accessories,3,1499,4497,Offline
+SO-200454,2024-02-14,HSR Layout,Jeans,Apparel,3,1999,5997,Online
+SO-200455,2025-05-29,Indiranagar,Cap,Accessories,1,499,499,Online
+SO-200456,2024-02-24,Indiranagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200457,2025-08-07,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200458,2024-10-28,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200459,2024-05-01,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-200460,2025-08-05,Whitefield,Cap,Accessories,1,499,499,Online
+SO-200461,2024-06-13,JP Nagar,Jeans,Apparel,4,1999,7996,Online
+SO-200462,2024-01-04,JP Nagar,Cap,Accessories,3,499,1497,Offline
+SO-200463,2024-04-28,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200464,2024-07-21,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-200465,2024-12-05,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-200466,2025-01-28,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200467,2025-06-08,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200468,2024-12-14,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200469,2025-03-24,JP Nagar,Jacket,Apparel,2,3499,6998,Offline
+SO-200470,2025-01-04,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200471,2025-09-12,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200472,2024-08-06,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200473,2024-01-08,JP Nagar,Jacket,Apparel,3,3499,10497,Offline
+SO-200474,2025-07-13,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200475,2024-01-06,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200476,2024-08-28,Koramangala,Sneakers,Footwear,2,3999,7998,Online
+SO-200477,2024-12-28,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200478,2025-06-22,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-200479,2024-12-31,Whitefield,Jeans,Apparel,6,1999,11994,Offline
+SO-200480,2024-06-20,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-200481,2024-07-23,Whitefield,Sneakers,Footwear,3,3999,11997,Online
+SO-200482,2024-01-19,Indiranagar,Backpack,Accessories,2,1499,2998,Offline
+SO-200483,2024-07-25,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200484,2025-09-15,Koramangala,Sneakers,Footwear,4,3999,15996,Online
+SO-200485,2025-03-23,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200486,2025-06-14,Whitefield,Sneakers,Footwear,3,3999,11997,Online
+SO-200487,2024-03-31,JP Nagar,Cap,Accessories,1,499,499,Offline
+SO-200488,2025-02-01,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-200489,2025-06-08,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200490,2025-01-31,HSR Layout,T-Shirt,Apparel,4,799,3196,Online
+SO-200491,2024-10-02,Koramangala,Cap,Accessories,5,499,2495,Offline
+SO-200492,2025-06-24,JP Nagar,Jacket,Apparel,3,3499,10497,Online
+SO-200493,2025-08-26,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-200494,2024-08-03,Indiranagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200495,2024-07-21,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-200496,2025-08-02,Indiranagar,Watch,Accessories,1,5999,5999,Offline
+SO-200497,2024-08-14,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-200498,2025-01-01,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-200499,2024-12-09,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200500,2025-07-20,Koramangala,Watch,Accessories,1,5999,5999,Online
+SO-200501,2024-11-20,Whitefield,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200502,2025-01-25,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200503,2025-07-08,Indiranagar,T-Shirt,Apparel,2,799,1598,Online
+SO-200504,2025-07-19,JP Nagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200505,2024-07-03,Whitefield,Sneakers,Footwear,3,3999,11997,Offline
+SO-200506,2024-09-14,JP Nagar,Watch,Accessories,1,5999,5999,Online
+SO-200507,2024-12-20,HSR Layout,Cap,Accessories,3,499,1497,Online
+SO-200508,2025-06-05,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-200509,2025-02-09,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200510,2024-04-23,Whitefield,Jeans,Apparel,3,1999,5997,Online
+SO-200511,2024-02-27,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200512,2024-11-25,Whitefield,Cap,Accessories,6,499,2994,Online
+SO-200513,2024-03-24,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200514,2025-08-25,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200515,2024-12-16,HSR Layout,Sneakers,Footwear,5,3999,19995,Offline
+SO-200516,2025-01-09,Koramangala,Sneakers,Footwear,2,3999,7998,Online
+SO-200517,2025-04-18,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200518,2025-06-27,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200519,2025-05-25,Indiranagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200520,2024-07-30,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200521,2024-07-13,Whitefield,Sneakers,Footwear,1,3999,3999,Offline
+SO-200522,2024-07-11,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200523,2025-07-27,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200524,2025-03-27,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-200525,2025-03-11,HSR Layout,Jacket,Apparel,3,3499,10497,Offline
+SO-200526,2024-06-09,JP Nagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200527,2025-02-11,Whitefield,Watch,Accessories,4,5999,23996,Online
+SO-200528,2024-10-05,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-200529,2025-08-17,Indiranagar,Backpack,Accessories,3,1499,4497,Online
+SO-200530,2024-01-13,Koramangala,Watch,Accessories,1,5999,5999,Online
+SO-200531,2025-05-26,Whitefield,Jeans,Apparel,2,1999,3998,Online
+SO-200532,2024-07-28,HSR Layout,Cap,Accessories,4,499,1996,Online
+SO-200533,2025-08-25,JP Nagar,Jacket,Apparel,1,3499,3499,Offline
+SO-200534,2025-01-29,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200535,2025-07-04,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-200536,2024-03-26,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200537,2024-01-19,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200538,2024-05-23,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200539,2024-07-20,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200540,2024-05-28,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200541,2024-11-25,Koramangala,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200542,2025-03-15,Whitefield,Cap,Accessories,3,499,1497,Online
+SO-200543,2025-09-06,Koramangala,Backpack,Accessories,4,1499,5996,Offline
+SO-200544,2025-03-31,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200545,2024-09-06,HSR Layout,Watch,Accessories,4,5999,23996,Offline
+SO-200546,2024-07-22,Koramangala,Cap,Accessories,2,499,998,Offline
+SO-200547,2025-09-28,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200548,2025-03-21,Indiranagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200549,2024-07-29,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200550,2025-04-13,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-200551,2024-06-10,Indiranagar,Backpack,Accessories,3,1499,4497,Offline
+SO-200552,2024-02-25,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-200553,2024-09-29,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-200554,2025-05-16,Koramangala,Watch,Accessories,3,5999,17997,Offline
+SO-200555,2025-01-13,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200556,2025-07-21,JP Nagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200557,2024-12-05,Koramangala,Jeans,Apparel,3,1999,5997,Offline
+SO-200558,2024-02-22,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200559,2024-03-30,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200560,2024-10-29,Indiranagar,T-Shirt,Apparel,5,799,3995,Online
+SO-200561,2024-06-06,Indiranagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-200562,2024-04-27,HSR Layout,Cap,Accessories,3,499,1497,Online
+SO-200563,2024-03-06,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200564,2024-12-05,Whitefield,Running Shoes,Footwear,6,2999,17994,Offline
+SO-200565,2025-09-16,Whitefield,Watch,Accessories,4,5999,23996,Offline
+SO-200566,2024-05-26,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200567,2024-05-29,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200568,2025-04-21,JP Nagar,Watch,Accessories,1,5999,5999,Offline
+SO-200569,2024-08-14,Koramangala,Jacket,Apparel,4,3499,13996,Online
+SO-200570,2024-10-04,HSR Layout,T-Shirt,Apparel,5,799,3995,Online
+SO-200571,2025-03-22,JP Nagar,Backpack,Accessories,4,1499,5996,Offline
+SO-200572,2024-04-23,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200573,2024-01-13,Indiranagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-200574,2025-06-26,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200575,2025-09-09,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200576,2025-01-09,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200577,2025-04-11,HSR Layout,Running Shoes,Footwear,3,2999,8997,Online
+SO-200578,2025-08-13,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-200579,2024-07-05,HSR Layout,Jeans,Apparel,2,1999,3998,Online
+SO-200580,2025-03-03,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200581,2024-03-06,Indiranagar,Backpack,Accessories,3,1499,4497,Offline
+SO-200582,2024-09-20,Koramangala,Backpack,Accessories,3,1499,4497,Offline
+SO-200583,2024-04-01,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200584,2024-01-14,JP Nagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-200585,2024-01-21,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200586,2024-10-16,JP Nagar,Backpack,Accessories,3,1499,4497,Offline
+SO-200587,2024-02-13,Whitefield,Sneakers,Footwear,1,3999,3999,Online
+SO-200588,2025-05-09,JP Nagar,Jeans,Apparel,2,1999,3998,Offline
+SO-200589,2024-02-09,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200590,2024-05-06,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-200591,2024-10-16,Whitefield,Cap,Accessories,1,499,499,Online
+SO-200592,2024-03-07,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200593,2024-12-17,Indiranagar,T-Shirt,Apparel,2,799,1598,Online
+SO-200594,2024-03-22,HSR Layout,Cap,Accessories,3,499,1497,Offline
+SO-200595,2025-06-18,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200596,2025-01-31,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200597,2025-01-21,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-200598,2025-04-28,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200599,2025-03-26,Indiranagar,Jacket,Apparel,1,3499,3499,Offline
+SO-200600,2025-05-19,JP Nagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200601,2025-08-14,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-200602,2024-05-09,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-200603,2025-09-11,JP Nagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-200604,2025-09-21,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200605,2024-04-30,Indiranagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-200606,2025-06-12,Indiranagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200607,2024-12-31,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-200608,2025-05-21,JP Nagar,Sneakers,Footwear,3,3999,11997,Online
+SO-200609,2024-12-17,HSR Layout,Backpack,Accessories,4,1499,5996,Offline
+SO-200610,2025-07-20,Indiranagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-200611,2024-02-27,HSR Layout,Backpack,Accessories,3,1499,4497,Offline
+SO-200612,2025-05-02,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-200613,2024-12-31,Indiranagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200614,2025-04-05,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-200615,2025-06-24,Koramangala,Cap,Accessories,3,499,1497,Online
+SO-200616,2024-04-05,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200617,2025-03-05,JP Nagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200618,2024-03-03,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200619,2024-09-30,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-200620,2024-04-19,Koramangala,Backpack,Accessories,1,1499,1499,Offline
+SO-200621,2025-07-08,Koramangala,Backpack,Accessories,3,1499,4497,Offline
+SO-200622,2024-01-13,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200623,2025-01-18,JP Nagar,Cap,Accessories,4,499,1996,Offline
+SO-200624,2024-04-29,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200625,2024-01-04,Indiranagar,Jacket,Apparel,1,3499,3499,Online
+SO-200626,2025-01-04,Koramangala,Sneakers,Footwear,1,3999,3999,Online
+SO-200627,2025-07-17,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-200628,2024-09-10,Indiranagar,Backpack,Accessories,4,1499,5996,Online
+SO-200629,2025-05-19,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200630,2024-08-14,Indiranagar,Jacket,Apparel,1,3499,3499,Online
+SO-200631,2024-04-03,HSR Layout,Cap,Accessories,1,499,499,Online
+SO-200632,2024-06-06,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200633,2024-10-21,Whitefield,Sneakers,Footwear,3,3999,11997,Online
+SO-200634,2024-04-30,HSR Layout,Jeans,Apparel,1,1999,1999,Offline
+SO-200635,2025-02-06,HSR Layout,Cap,Accessories,1,499,499,Offline
+SO-200636,2024-08-31,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200637,2024-07-29,JP Nagar,Jeans,Apparel,1,1999,1999,Online
+SO-200638,2024-04-04,JP Nagar,Backpack,Accessories,3,1499,4497,Online
+SO-200639,2025-05-05,HSR Layout,Jeans,Apparel,4,1999,7996,Offline
+SO-200640,2025-03-30,JP Nagar,Jacket,Apparel,3,3499,10497,Offline
+SO-200641,2024-11-05,HSR Layout,T-Shirt,Apparel,4,799,3196,Online
+SO-200642,2024-02-11,Indiranagar,Watch,Accessories,3,5999,17997,Online
+SO-200643,2024-12-13,Whitefield,Jeans,Apparel,1,1999,1999,Offline
+SO-200644,2024-02-20,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200645,2024-11-19,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-200646,2024-07-18,HSR Layout,T-Shirt,Apparel,3,799,2397,Offline
+SO-200647,2025-08-11,Indiranagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200648,2024-08-03,Indiranagar,Cap,Accessories,4,499,1996,Online
+SO-200649,2025-08-04,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-200650,2025-07-31,Koramangala,Backpack,Accessories,1,1499,1499,Online
+SO-200651,2025-03-14,Whitefield,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200652,2025-08-02,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200653,2024-01-24,Indiranagar,Jacket,Apparel,3,3499,10497,Offline
+SO-200654,2024-12-11,HSR Layout,Backpack,Accessories,4,1499,5996,Online
+SO-200655,2024-12-25,HSR Layout,Watch,Accessories,5,5999,29995,Online
+SO-200656,2024-12-27,JP Nagar,Backpack,Accessories,3,1499,4497,Online
+SO-200657,2024-07-15,Whitefield,Sneakers,Footwear,2,3999,7998,Online
+SO-200658,2024-06-15,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-200659,2024-04-27,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200660,2025-06-19,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-200661,2025-09-10,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-200662,2024-09-03,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-200663,2024-02-26,JP Nagar,Jacket,Apparel,3,3499,10497,Offline
+SO-200664,2024-10-30,Whitefield,Running Shoes,Footwear,5,2999,14995,Offline
+SO-200665,2025-09-03,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-200666,2024-02-21,Koramangala,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200667,2024-08-28,Koramangala,Jacket,Apparel,2,3499,6998,Online
+SO-200668,2025-01-12,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-200669,2025-05-26,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200670,2025-05-10,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-200671,2025-03-30,Koramangala,Jeans,Apparel,4,1999,7996,Online
+SO-200672,2024-06-03,Whitefield,Backpack,Accessories,3,1499,4497,Online
+SO-200673,2024-06-08,HSR Layout,T-Shirt,Apparel,3,799,2397,Offline
+SO-200674,2024-05-14,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200675,2025-02-22,JP Nagar,Jeans,Apparel,4,1999,7996,Offline
+SO-200676,2025-04-13,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200677,2025-05-12,HSR Layout,T-Shirt,Apparel,3,799,2397,Offline
+SO-200678,2025-05-06,Whitefield,Backpack,Accessories,2,1499,2998,Online
+SO-200679,2025-07-11,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200680,2025-04-18,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-200681,2024-10-18,HSR Layout,Running Shoes,Footwear,5,2999,14995,Online
+SO-200682,2025-04-15,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200683,2025-03-14,Whitefield,Backpack,Accessories,4,1499,5996,Offline
+SO-200684,2025-02-22,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200685,2025-07-02,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200686,2024-12-26,JP Nagar,Backpack,Accessories,4,1499,5996,Offline
+SO-200687,2025-03-29,HSR Layout,T-Shirt,Apparel,3,799,2397,Offline
+SO-200688,2024-01-05,Indiranagar,Jeans,Apparel,2,1999,3998,Offline
+SO-200689,2025-07-15,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-200690,2024-09-21,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200691,2024-12-02,Koramangala,Watch,Accessories,3,5999,17997,Offline
+SO-200692,2024-05-22,Koramangala,Watch,Accessories,3,5999,17997,Online
+SO-200693,2025-09-07,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-200694,2025-01-08,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200695,2025-06-10,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200696,2025-06-27,HSR Layout,Watch,Accessories,2,5999,11998,Online
+SO-200697,2025-03-31,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200698,2024-02-02,HSR Layout,Running Shoes,Footwear,3,2999,8997,Online
+SO-200699,2024-08-07,Koramangala,Watch,Accessories,1,5999,5999,Online
+SO-200700,2024-06-08,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200701,2024-04-25,Whitefield,Jacket,Apparel,1,3499,3499,Offline
+SO-200702,2024-08-06,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200703,2025-05-26,Koramangala,Jeans,Apparel,1,1999,1999,Offline
+SO-200704,2025-07-25,HSR Layout,Jeans,Apparel,4,1999,7996,Offline
+SO-200705,2025-07-04,Indiranagar,Cap,Accessories,3,499,1497,Online
+SO-200706,2025-08-10,Koramangala,Backpack,Accessories,3,1499,4497,Online
+SO-200707,2024-11-04,HSR Layout,Jacket,Apparel,1,3499,3499,Online
+SO-200708,2024-07-05,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-200709,2024-12-01,HSR Layout,Running Shoes,Footwear,3,2999,8997,Online
+SO-200710,2025-03-25,Koramangala,Backpack,Accessories,1,1499,1499,Online
+SO-200711,2024-10-14,HSR Layout,Jacket,Apparel,5,3499,17495,Offline
+SO-200712,2024-02-24,Koramangala,Backpack,Accessories,3,1499,4497,Online
+SO-200713,2025-07-18,HSR Layout,Jeans,Apparel,3,1999,5997,Offline
+SO-200714,2024-12-23,Koramangala,Jacket,Apparel,5,3499,17495,Online
+SO-200715,2024-09-27,Koramangala,Running Shoes,Footwear,1,2999,2999,Online
+SO-200716,2024-01-13,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200717,2024-05-31,JP Nagar,Backpack,Accessories,4,1499,5996,Online
+SO-200718,2024-10-09,HSR Layout,Running Shoes,Footwear,6,2999,17994,Online
+SO-200719,2024-05-14,Indiranagar,Cap,Accessories,3,499,1497,Online
+SO-200720,2024-10-02,Koramangala,T-Shirt,Apparel,3,799,2397,Online
+SO-200721,2025-09-05,HSR Layout,Watch,Accessories,3,5999,17997,Offline
+SO-200722,2024-03-04,JP Nagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-200723,2024-03-12,Koramangala,Cap,Accessories,2,499,998,Online
+SO-200724,2025-04-22,Koramangala,Sneakers,Footwear,4,3999,15996,Online
+SO-200725,2025-06-03,HSR Layout,Sneakers,Footwear,2,3999,7998,Online
+SO-200726,2024-04-07,Indiranagar,Jacket,Apparel,2,3499,6998,Offline
+SO-200727,2025-08-29,HSR Layout,Sneakers,Footwear,3,3999,11997,Online
+SO-200728,2025-01-18,Indiranagar,Sneakers,Footwear,3,3999,11997,Online
+SO-200729,2024-05-23,Koramangala,Cap,Accessories,1,499,499,Online
+SO-200730,2024-04-30,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-200731,2024-02-09,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-200732,2024-09-04,Whitefield,Jacket,Apparel,2,3499,6998,Offline
+SO-200733,2024-01-04,Koramangala,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200734,2025-08-20,Indiranagar,T-Shirt,Apparel,2,799,1598,Online
+SO-200735,2024-11-03,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-200736,2025-03-29,Indiranagar,Jacket,Apparel,2,3499,6998,Offline
+SO-200737,2025-02-09,Koramangala,Jacket,Apparel,3,3499,10497,Offline
+SO-200738,2024-10-18,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200739,2024-03-07,HSR Layout,Jacket,Apparel,4,3499,13996,Online
+SO-200740,2025-04-06,JP Nagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-200741,2025-08-14,JP Nagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200742,2025-04-16,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200743,2024-03-18,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-200744,2025-06-19,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-200745,2024-11-14,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-200746,2025-02-09,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-200747,2024-11-16,HSR Layout,Jacket,Apparel,4,3499,13996,Online
+SO-200748,2024-07-29,Whitefield,Jacket,Apparel,1,3499,3499,Offline
+SO-200749,2025-09-20,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-200750,2024-05-29,Indiranagar,Backpack,Accessories,1,1499,1499,Online
+SO-200751,2025-07-11,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-200752,2024-10-18,Koramangala,Sneakers,Footwear,1,3999,3999,Online
+SO-200753,2025-08-30,HSR Layout,Jacket,Apparel,3,3499,10497,Online
+SO-200754,2025-04-18,Koramangala,Backpack,Accessories,3,1499,4497,Offline
+SO-200755,2025-01-27,HSR Layout,T-Shirt,Apparel,1,799,799,Offline
+SO-200756,2025-05-17,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200757,2025-05-21,Indiranagar,Watch,Accessories,4,5999,23996,Online
+SO-200758,2025-08-02,HSR Layout,Sneakers,Footwear,4,3999,15996,Offline
+SO-200759,2025-02-06,Indiranagar,Cap,Accessories,2,499,998,Offline
+SO-200760,2024-02-09,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-200761,2024-10-08,Whitefield,Watch,Accessories,3,5999,17997,Offline
+SO-200762,2024-08-23,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-200763,2025-05-21,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200764,2025-04-16,HSR Layout,Running Shoes,Footwear,2,2999,5998,Online
+SO-200765,2024-04-26,Indiranagar,Sneakers,Footwear,1,3999,3999,Online
+SO-200766,2024-04-05,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200767,2024-03-26,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-200768,2024-01-10,Indiranagar,Jacket,Apparel,4,3499,13996,Online
+SO-200769,2025-06-06,HSR Layout,Jacket,Apparel,3,3499,10497,Offline
+SO-200770,2024-12-09,Whitefield,T-Shirt,Apparel,5,799,3995,Online
+SO-200771,2025-08-26,HSR Layout,Running Shoes,Footwear,3,2999,8997,Online
+SO-200772,2025-07-20,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200773,2024-09-21,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200774,2025-03-04,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200775,2024-05-17,JP Nagar,Jeans,Apparel,4,1999,7996,Online
+SO-200776,2024-12-05,JP Nagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200777,2024-01-20,Whitefield,Jacket,Apparel,2,3499,6998,Offline
+SO-200778,2024-12-06,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200779,2025-09-17,JP Nagar,T-Shirt,Apparel,1,799,799,Online
+SO-200780,2025-03-14,Indiranagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200781,2024-01-18,HSR Layout,Jacket,Apparel,1,3499,3499,Online
+SO-200782,2025-07-18,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200783,2025-08-13,HSR Layout,Backpack,Accessories,2,1499,2998,Online
+SO-200784,2025-03-23,HSR Layout,Backpack,Accessories,2,1499,2998,Online
+SO-200785,2024-09-16,Koramangala,Backpack,Accessories,4,1499,5996,Online
+SO-200786,2025-01-12,Indiranagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200787,2025-09-10,HSR Layout,Cap,Accessories,2,499,998,Offline
+SO-200788,2024-03-01,JP Nagar,Backpack,Accessories,4,1499,5996,Offline
+SO-200789,2025-09-18,HSR Layout,Sneakers,Footwear,4,3999,15996,Online
+SO-200790,2024-12-04,Indiranagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200791,2024-03-30,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200792,2024-05-30,Koramangala,T-Shirt,Apparel,4,799,3196,Online
+SO-200793,2025-04-19,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-200794,2024-05-19,HSR Layout,Watch,Accessories,2,5999,11998,Online
+SO-200795,2024-10-26,Koramangala,Jeans,Apparel,1,1999,1999,Offline
+SO-200796,2025-02-09,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200797,2024-04-02,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-200798,2024-08-12,HSR Layout,T-Shirt,Apparel,1,799,799,Online
+SO-200799,2025-09-11,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200800,2024-10-19,Indiranagar,Watch,Accessories,3,5999,17997,Offline
+SO-200801,2025-01-15,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-200802,2024-09-17,HSR Layout,Jeans,Apparel,1,1999,1999,Offline
+SO-200803,2024-11-29,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200804,2025-04-06,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-200805,2025-01-05,Koramangala,Backpack,Accessories,3,1499,4497,Offline
+SO-200806,2024-10-26,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200807,2025-05-14,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-200808,2024-10-11,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-200809,2024-01-23,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-200810,2024-01-14,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200811,2024-03-16,HSR Layout,Watch,Accessories,4,5999,23996,Offline
+SO-200812,2025-06-23,Whitefield,Backpack,Accessories,4,1499,5996,Offline
+SO-200813,2024-12-30,JP Nagar,Backpack,Accessories,2,1499,2998,Online
+SO-200814,2025-08-16,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200815,2024-11-23,HSR Layout,Jeans,Apparel,3,1999,5997,Offline
+SO-200816,2024-05-11,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-200817,2024-08-13,Whitefield,T-Shirt,Apparel,2,799,1598,Offline
+SO-200818,2025-01-14,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200819,2025-09-08,Koramangala,Jacket,Apparel,2,3499,6998,Offline
+SO-200820,2024-08-23,Koramangala,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200821,2025-02-25,Koramangala,T-Shirt,Apparel,1,799,799,Online
+SO-200822,2024-12-05,JP Nagar,Watch,Accessories,2,5999,11998,Online
+SO-200823,2025-07-22,JP Nagar,Cap,Accessories,1,499,499,Offline
+SO-200824,2025-07-14,Whitefield,Sneakers,Footwear,2,3999,7998,Online
+SO-200825,2025-06-13,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200826,2024-09-13,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-200827,2024-06-06,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200828,2025-02-04,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-200829,2024-02-28,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200830,2025-08-28,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200831,2024-06-02,Indiranagar,Watch,Accessories,1,5999,5999,Online
+SO-200832,2025-06-06,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200833,2024-10-09,JP Nagar,Running Shoes,Footwear,5,2999,14995,Online
+SO-200834,2025-08-21,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-200835,2024-07-27,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-200836,2024-10-21,Koramangala,Cap,Accessories,1,499,499,Offline
+SO-200837,2025-03-19,Whitefield,Watch,Accessories,3,5999,17997,Online
+SO-200838,2024-12-11,Indiranagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200839,2024-02-08,Whitefield,Cap,Accessories,2,499,998,Online
+SO-200840,2025-05-16,Koramangala,Jeans,Apparel,4,1999,7996,Online
+SO-200841,2025-02-04,HSR Layout,Backpack,Accessories,3,1499,4497,Online
+SO-200842,2024-12-10,HSR Layout,Jeans,Apparel,5,1999,9995,Online
+SO-200843,2025-02-10,Koramangala,Jeans,Apparel,4,1999,7996,Online
+SO-200844,2024-06-05,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-200845,2024-10-29,Indiranagar,Sneakers,Footwear,6,3999,23994,Online
+SO-200846,2024-07-27,Koramangala,Jeans,Apparel,3,1999,5997,Offline
+SO-200847,2024-06-22,Whitefield,Watch,Accessories,1,5999,5999,Offline
+SO-200848,2024-09-07,Whitefield,Cap,Accessories,3,499,1497,Offline
+SO-200849,2024-03-21,Whitefield,Jacket,Apparel,1,3499,3499,Online
+SO-200850,2024-04-12,HSR Layout,Backpack,Accessories,3,1499,4497,Online
+SO-200851,2025-09-13,Whitefield,Backpack,Accessories,1,1499,1499,Offline
+SO-200852,2024-03-06,JP Nagar,T-Shirt,Apparel,1,799,799,Online
+SO-200853,2024-03-01,JP Nagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-200854,2024-05-31,JP Nagar,T-Shirt,Apparel,4,799,3196,Online
+SO-200855,2024-04-17,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200856,2024-06-09,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-200857,2024-06-27,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-200858,2025-01-21,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-200859,2024-10-10,JP Nagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200860,2025-01-11,Indiranagar,Backpack,Accessories,4,1499,5996,Online
+SO-200861,2025-09-16,Whitefield,T-Shirt,Apparel,2,799,1598,Offline
+SO-200862,2024-03-11,HSR Layout,Jacket,Apparel,4,3499,13996,Offline
+SO-200863,2025-05-07,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-200864,2024-09-01,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200865,2024-06-06,JP Nagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-200866,2025-01-13,HSR Layout,Cap,Accessories,4,499,1996,Online
+SO-200867,2025-02-14,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200868,2024-10-20,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200869,2024-07-29,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-200870,2025-09-24,Indiranagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200871,2024-03-22,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200872,2024-04-13,Indiranagar,Jacket,Apparel,2,3499,6998,Online
+SO-200873,2024-12-14,Indiranagar,Backpack,Accessories,2,1499,2998,Online
+SO-200874,2024-05-04,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-200875,2025-09-30,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-200876,2025-01-13,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-200877,2024-01-07,Koramangala,T-Shirt,Apparel,4,799,3196,Online
+SO-200878,2025-03-30,Koramangala,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200879,2024-05-07,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-200880,2024-10-20,JP Nagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200881,2025-06-27,HSR Layout,Sneakers,Footwear,1,3999,3999,Offline
+SO-200882,2024-12-13,Indiranagar,Watch,Accessories,4,5999,23996,Offline
+SO-200883,2025-04-15,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-200884,2025-09-08,Koramangala,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200885,2024-05-01,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-200886,2024-04-30,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-200887,2025-03-16,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-200888,2024-01-23,JP Nagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200889,2024-12-08,JP Nagar,Jacket,Apparel,6,3499,20994,Offline
+SO-200890,2024-01-26,JP Nagar,Sneakers,Footwear,3,3999,11997,Online
+SO-200891,2025-02-07,Koramangala,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200892,2024-10-30,HSR Layout,T-Shirt,Apparel,3,799,2397,Offline
+SO-200893,2025-02-28,Whitefield,Sneakers,Footwear,1,3999,3999,Offline
+SO-200894,2024-12-27,Indiranagar,Jeans,Apparel,5,1999,9995,Offline
+SO-200895,2025-06-16,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-200896,2024-12-06,Koramangala,Running Shoes,Footwear,5,2999,14995,Offline
+SO-200897,2024-12-02,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-200898,2024-12-24,Koramangala,Running Shoes,Footwear,5,2999,14995,Offline
+SO-200899,2025-03-05,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-200900,2025-07-22,Whitefield,Sneakers,Footwear,1,3999,3999,Offline
+SO-200901,2024-02-14,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-200902,2024-07-26,Koramangala,Jeans,Apparel,3,1999,5997,Offline
+SO-200903,2024-04-23,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200904,2025-08-03,HSR Layout,T-Shirt,Apparel,1,799,799,Online
+SO-200905,2025-03-10,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-200906,2024-04-17,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-200907,2024-08-19,JP Nagar,Jeans,Apparel,1,1999,1999,Online
+SO-200908,2024-01-16,Koramangala,Sneakers,Footwear,1,3999,3999,Online
+SO-200909,2024-11-15,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200910,2024-09-20,JP Nagar,Jeans,Apparel,1,1999,1999,Offline
+SO-200911,2024-07-21,Whitefield,Watch,Accessories,4,5999,23996,Online
+SO-200912,2024-06-17,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-200913,2024-05-13,JP Nagar,Backpack,Accessories,2,1499,2998,Offline
+SO-200914,2024-09-18,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200915,2025-04-27,Indiranagar,Jeans,Apparel,1,1999,1999,Online
+SO-200916,2024-08-16,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-200917,2024-03-08,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-200918,2025-05-26,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-200919,2024-03-24,Indiranagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200920,2024-09-14,Indiranagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200921,2024-09-28,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200922,2024-02-18,Koramangala,Watch,Accessories,1,5999,5999,Offline
+SO-200923,2025-04-04,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-200924,2024-08-16,Whitefield,Jeans,Apparel,1,1999,1999,Offline
+SO-200925,2024-10-26,Whitefield,Running Shoes,Footwear,3,2999,8997,Offline
+SO-200926,2024-01-18,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-200927,2024-12-26,JP Nagar,Cap,Accessories,5,499,2495,Online
+SO-200928,2024-10-28,Koramangala,Jeans,Apparel,5,1999,9995,Online
+SO-200929,2024-07-06,Indiranagar,Jeans,Apparel,3,1999,5997,Online
+SO-200930,2024-10-25,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-200931,2024-03-04,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-200932,2025-07-23,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-200933,2024-06-01,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-200934,2024-05-25,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200935,2024-05-10,JP Nagar,T-Shirt,Apparel,2,799,1598,Online
+SO-200936,2025-07-04,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200937,2024-11-21,Whitefield,Cap,Accessories,6,499,2994,Online
+SO-200938,2025-02-02,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200939,2024-12-17,Indiranagar,Watch,Accessories,4,5999,23996,Offline
+SO-200940,2024-03-09,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-200941,2024-09-23,HSR Layout,Jeans,Apparel,3,1999,5997,Online
+SO-200942,2025-05-27,Whitefield,Cap,Accessories,4,499,1996,Online
+SO-200943,2024-08-27,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-200944,2025-01-29,HSR Layout,Cap,Accessories,4,499,1996,Online
+SO-200945,2024-02-03,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-200946,2024-11-28,Indiranagar,Watch,Accessories,5,5999,29995,Offline
+SO-200947,2024-08-21,HSR Layout,Running Shoes,Footwear,2,2999,5998,Online
+SO-200948,2024-03-17,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200949,2024-12-03,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-200950,2024-10-11,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200951,2024-05-27,Indiranagar,Jacket,Apparel,1,3499,3499,Offline
+SO-200952,2024-01-31,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-200953,2025-08-15,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-200954,2025-06-27,Koramangala,Jacket,Apparel,3,3499,10497,Offline
+SO-200955,2024-05-15,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-200956,2024-06-02,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-200957,2024-06-01,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200958,2024-12-21,Koramangala,Backpack,Accessories,4,1499,5996,Online
+SO-200959,2024-09-13,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-200960,2024-05-27,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200961,2024-10-12,Indiranagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200962,2025-07-02,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-200963,2024-01-31,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-200964,2024-08-15,Whitefield,Cap,Accessories,3,499,1497,Online
+SO-200965,2024-02-09,HSR Layout,Running Shoes,Footwear,2,2999,5998,Online
+SO-200966,2025-03-05,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-200967,2024-06-23,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-200968,2024-08-01,HSR Layout,Cap,Accessories,3,499,1497,Offline
+SO-200969,2025-02-11,JP Nagar,Cap,Accessories,1,499,499,Online
+SO-200970,2025-02-26,Indiranagar,Jeans,Apparel,3,1999,5997,Online
+SO-200971,2024-12-06,JP Nagar,Sneakers,Footwear,3,3999,11997,Online
+SO-200972,2025-06-19,Koramangala,Jacket,Apparel,1,3499,3499,Offline
+SO-200973,2024-07-19,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200974,2025-03-17,Koramangala,Sneakers,Footwear,4,3999,15996,Online
+SO-200975,2024-02-29,Koramangala,Backpack,Accessories,2,1499,2998,Online
+SO-200976,2024-11-07,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200977,2025-06-23,JP Nagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-200978,2025-07-13,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-200979,2025-03-20,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-200980,2025-01-24,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-200981,2025-02-12,HSR Layout,Jeans,Apparel,2,1999,3998,Offline
+SO-200982,2025-09-11,JP Nagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200983,2024-01-04,HSR Layout,Backpack,Accessories,4,1499,5996,Offline
+SO-200984,2025-08-20,Indiranagar,Jeans,Apparel,4,1999,7996,Online
+SO-200985,2024-09-04,Koramangala,Backpack,Accessories,2,1499,2998,Offline
+SO-200986,2024-10-02,JP Nagar,Jeans,Apparel,3,1999,5997,Online
+SO-200987,2024-08-31,Whitefield,Jeans,Apparel,1,1999,1999,Online
+SO-200988,2024-12-05,HSR Layout,Jeans,Apparel,4,1999,7996,Online
+SO-200989,2024-04-06,JP Nagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-200990,2025-07-23,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-200991,2025-03-17,JP Nagar,Sneakers,Footwear,2,3999,7998,Online
+SO-200992,2024-04-10,Whitefield,Jeans,Apparel,3,1999,5997,Online
+SO-200993,2024-06-02,JP Nagar,Cap,Accessories,3,499,1497,Offline
+SO-200994,2024-06-20,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-200995,2025-01-25,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-200996,2024-10-19,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-200997,2025-06-10,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-200998,2025-07-01,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-200999,2025-08-13,Whitefield,T-Shirt,Apparel,1,799,799,Offline
+SO-201000,2024-03-09,JP Nagar,Jacket,Apparel,4,3499,13996,Online
+SO-201001,2025-07-23,Indiranagar,Jeans,Apparel,2,1999,3998,Online
+SO-201002,2025-04-25,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-201003,2024-11-26,HSR Layout,Running Shoes,Footwear,6,2999,17994,Online
+SO-201004,2024-07-14,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201005,2024-01-18,JP Nagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-201006,2024-05-15,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-201007,2025-04-21,JP Nagar,Jacket,Apparel,2,3499,6998,Offline
+SO-201008,2024-06-01,HSR Layout,Backpack,Accessories,4,1499,5996,Online
+SO-201009,2024-05-02,Indiranagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-201010,2024-03-11,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201011,2024-12-16,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-201012,2025-09-03,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201013,2024-05-17,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-201014,2025-05-13,Koramangala,Jeans,Apparel,4,1999,7996,Online
+SO-201015,2024-11-16,HSR Layout,Jeans,Apparel,5,1999,9995,Online
+SO-201016,2024-05-09,JP Nagar,Backpack,Accessories,2,1499,2998,Online
+SO-201017,2024-07-28,HSR Layout,Sneakers,Footwear,3,3999,11997,Online
+SO-201018,2025-02-23,Indiranagar,Backpack,Accessories,4,1499,5996,Offline
+SO-201019,2024-07-17,Whitefield,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201020,2024-05-20,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-201021,2025-04-29,Whitefield,Backpack,Accessories,3,1499,4497,Offline
+SO-201022,2025-05-09,Koramangala,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201023,2025-03-04,Koramangala,Backpack,Accessories,4,1499,5996,Offline
+SO-201024,2024-10-26,Indiranagar,T-Shirt,Apparel,2,799,1598,Online
+SO-201025,2024-04-27,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-201026,2025-05-26,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-201027,2025-09-25,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201028,2025-08-01,Koramangala,Watch,Accessories,4,5999,23996,Online
+SO-201029,2024-03-09,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-201030,2025-03-05,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201031,2024-10-10,Koramangala,Backpack,Accessories,2,1499,2998,Online
+SO-201032,2024-09-26,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201033,2024-11-19,Koramangala,Jacket,Apparel,5,3499,17495,Offline
+SO-201034,2025-03-27,JP Nagar,T-Shirt,Apparel,2,799,1598,Online
+SO-201035,2024-08-17,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-201036,2024-07-16,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-201037,2024-11-02,JP Nagar,Watch,Accessories,2,5999,11998,Online
+SO-201038,2024-10-15,Koramangala,Running Shoes,Footwear,6,2999,17994,Offline
+SO-201039,2024-11-23,Indiranagar,Running Shoes,Footwear,6,2999,17994,Offline
+SO-201040,2025-04-18,Indiranagar,Backpack,Accessories,4,1499,5996,Offline
+SO-201041,2024-03-12,Koramangala,Jacket,Apparel,2,3499,6998,Offline
+SO-201042,2024-04-22,Indiranagar,T-Shirt,Apparel,3,799,2397,Online
+SO-201043,2025-02-25,Indiranagar,Watch,Accessories,4,5999,23996,Online
+SO-201044,2024-05-15,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201045,2025-09-18,Indiranagar,Cap,Accessories,3,499,1497,Online
+SO-201046,2024-08-25,Koramangala,T-Shirt,Apparel,4,799,3196,Offline
+SO-201047,2024-10-14,Whitefield,Sneakers,Footwear,3,3999,11997,Offline
+SO-201048,2024-10-20,Koramangala,Jeans,Apparel,4,1999,7996,Online
+SO-201049,2025-09-16,HSR Layout,Watch,Accessories,1,5999,5999,Offline
+SO-201050,2024-07-21,HSR Layout,Watch,Accessories,2,5999,11998,Offline
+SO-201051,2024-06-02,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201052,2024-10-29,HSR Layout,Jacket,Apparel,5,3499,17495,Offline
+SO-201053,2024-07-21,HSR Layout,Running Shoes,Footwear,1,2999,2999,Online
+SO-201054,2024-06-21,HSR Layout,Sneakers,Footwear,3,3999,11997,Offline
+SO-201055,2025-06-15,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-201056,2024-08-01,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201057,2024-07-13,Indiranagar,Jacket,Apparel,2,3499,6998,Offline
+SO-201058,2024-08-26,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-201059,2024-04-26,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-201060,2024-11-04,Whitefield,Backpack,Accessories,3,1499,4497,Online
+SO-201061,2024-10-28,HSR Layout,Sneakers,Footwear,4,3999,15996,Offline
+SO-201062,2024-08-01,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-201063,2024-04-25,Indiranagar,Jeans,Apparel,1,1999,1999,Online
+SO-201064,2024-12-15,HSR Layout,Cap,Accessories,1,499,499,Offline
+SO-201065,2024-02-25,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-201066,2024-05-10,Koramangala,Watch,Accessories,2,5999,11998,Online
+SO-201067,2024-01-31,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-201068,2024-09-22,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201069,2025-09-25,HSR Layout,Backpack,Accessories,4,1499,5996,Offline
+SO-201070,2024-07-25,JP Nagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-201071,2025-03-09,JP Nagar,Jeans,Apparel,4,1999,7996,Online
+SO-201072,2025-07-19,JP Nagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201073,2025-06-13,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201074,2024-07-07,HSR Layout,Backpack,Accessories,4,1499,5996,Online
+SO-201075,2024-11-05,Indiranagar,Cap,Accessories,2,499,998,Online
+SO-201076,2025-07-22,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-201077,2024-01-13,JP Nagar,Jacket,Apparel,4,3499,13996,Online
+SO-201078,2025-02-12,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-201079,2025-01-14,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-201080,2025-03-26,Koramangala,T-Shirt,Apparel,4,799,3196,Online
+SO-201081,2024-11-21,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-201082,2025-07-05,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-201083,2025-04-26,Koramangala,Jacket,Apparel,4,3499,13996,Online
+SO-201084,2024-09-15,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201085,2024-07-26,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201086,2024-09-14,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-201087,2024-10-02,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-201088,2025-03-19,Whitefield,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201089,2025-09-01,JP Nagar,Jacket,Apparel,2,3499,6998,Online
+SO-201090,2025-07-13,Koramangala,Sneakers,Footwear,1,3999,3999,Offline
+SO-201091,2025-09-21,Indiranagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-201092,2025-09-16,JP Nagar,Jacket,Apparel,4,3499,13996,Offline
+SO-201093,2024-03-28,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201094,2024-11-01,Indiranagar,Cap,Accessories,2,499,998,Online
+SO-201095,2025-02-24,JP Nagar,Jacket,Apparel,3,3499,10497,Offline
+SO-201096,2024-05-22,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-201097,2024-06-26,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-201098,2024-08-15,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-201099,2024-01-30,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-201100,2024-02-24,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-201101,2024-08-24,JP Nagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201102,2024-05-12,Whitefield,Cap,Accessories,3,499,1497,Offline
+SO-201103,2024-11-13,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-201104,2024-03-02,Whitefield,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201105,2024-08-02,HSR Layout,T-Shirt,Apparel,4,799,3196,Online
+SO-201106,2024-01-11,JP Nagar,Jeans,Apparel,1,1999,1999,Offline
+SO-201107,2025-03-12,JP Nagar,Sneakers,Footwear,1,3999,3999,Offline
+SO-201108,2025-05-27,Whitefield,Watch,Accessories,3,5999,17997,Online
+SO-201109,2024-04-21,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-201110,2024-02-11,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201111,2024-12-21,JP Nagar,Cap,Accessories,3,499,1497,Offline
+SO-201112,2024-05-22,Indiranagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201113,2024-12-20,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-201114,2024-11-08,HSR Layout,Running Shoes,Footwear,6,2999,17994,Offline
+SO-201115,2024-01-23,Whitefield,Sneakers,Footwear,1,3999,3999,Online
+SO-201116,2025-07-26,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-201117,2024-10-30,JP Nagar,Jeans,Apparel,4,1999,7996,Online
+SO-201118,2024-05-10,Whitefield,Watch,Accessories,4,5999,23996,Offline
+SO-201119,2025-02-08,Koramangala,Cap,Accessories,4,499,1996,Offline
+SO-201120,2024-06-11,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-201121,2024-06-13,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-201122,2024-07-29,HSR Layout,Jeans,Apparel,2,1999,3998,Offline
+SO-201123,2024-08-21,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-201124,2024-12-20,Whitefield,Jeans,Apparel,3,1999,5997,Online
+SO-201125,2024-09-25,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201126,2024-02-19,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201127,2025-01-24,Indiranagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-201128,2025-01-15,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201129,2025-06-15,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-201130,2025-05-21,Indiranagar,Jacket,Apparel,3,3499,10497,Offline
+SO-201131,2025-03-12,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201132,2025-09-13,JP Nagar,T-Shirt,Apparel,4,799,3196,Offline
+SO-201133,2024-06-10,Whitefield,T-Shirt,Apparel,2,799,1598,Offline
+SO-201134,2025-02-06,Whitefield,Jeans,Apparel,1,1999,1999,Online
+SO-201135,2024-08-12,JP Nagar,Backpack,Accessories,1,1499,1499,Offline
+SO-201136,2024-04-23,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-201137,2024-08-26,Koramangala,Jeans,Apparel,1,1999,1999,Offline
+SO-201138,2024-04-27,Koramangala,Sneakers,Footwear,2,3999,7998,Offline
+SO-201139,2025-06-19,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-201140,2024-09-01,Koramangala,Sneakers,Footwear,3,3999,11997,Offline
+SO-201141,2024-01-08,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201142,2024-04-22,HSR Layout,T-Shirt,Apparel,1,799,799,Offline
+SO-201143,2024-01-06,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-201144,2025-09-22,Koramangala,Jacket,Apparel,2,3499,6998,Offline
+SO-201145,2024-10-23,HSR Layout,Sneakers,Footwear,2,3999,7998,Offline
+SO-201146,2025-03-24,Whitefield,Watch,Accessories,4,5999,23996,Offline
+SO-201147,2024-10-24,Indiranagar,Jacket,Apparel,5,3499,17495,Online
+SO-201148,2024-10-08,Indiranagar,T-Shirt,Apparel,3,799,2397,Online
+SO-201149,2024-12-29,Koramangala,Sneakers,Footwear,5,3999,19995,Offline
+SO-201150,2024-11-23,HSR Layout,Cap,Accessories,5,499,2495,Offline
+SO-201151,2024-08-05,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-201152,2025-08-21,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-201153,2025-07-10,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-201154,2024-10-22,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-201155,2024-06-26,Indiranagar,Jeans,Apparel,2,1999,3998,Online
+SO-201156,2024-03-06,HSR Layout,T-Shirt,Apparel,3,799,2397,Offline
+SO-201157,2025-04-04,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-201158,2024-06-04,Whitefield,T-Shirt,Apparel,1,799,799,Offline
+SO-201159,2024-01-21,Indiranagar,Jacket,Apparel,3,3499,10497,Offline
+SO-201160,2024-01-18,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-201161,2025-09-08,JP Nagar,Backpack,Accessories,3,1499,4497,Offline
+SO-201162,2025-09-10,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-201163,2024-12-12,Indiranagar,Jacket,Apparel,3,3499,10497,Offline
+SO-201164,2025-09-02,Koramangala,Sneakers,Footwear,4,3999,15996,Offline
+SO-201165,2024-12-06,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-201166,2024-05-08,Whitefield,Watch,Accessories,2,5999,11998,Offline
+SO-201167,2024-11-05,Koramangala,Cap,Accessories,2,499,998,Online
+SO-201168,2024-09-07,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201169,2025-04-11,Koramangala,Backpack,Accessories,3,1499,4497,Online
+SO-201170,2024-10-09,JP Nagar,Jacket,Apparel,3,3499,10497,Offline
+SO-201171,2024-01-04,HSR Layout,T-Shirt,Apparel,1,799,799,Online
+SO-201172,2024-03-22,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-201173,2024-01-01,Whitefield,Cap,Accessories,1,499,499,Offline
+SO-201174,2024-07-15,HSR Layout,Sneakers,Footwear,4,3999,15996,Offline
+SO-201175,2025-04-19,JP Nagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201176,2024-12-02,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-201177,2024-04-23,JP Nagar,Sneakers,Footwear,1,3999,3999,Online
+SO-201178,2025-06-10,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201179,2024-03-12,JP Nagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-201180,2025-04-11,HSR Layout,Jeans,Apparel,3,1999,5997,Online
+SO-201181,2024-10-20,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201182,2024-08-24,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-201183,2024-08-21,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-201184,2024-02-23,JP Nagar,Jeans,Apparel,4,1999,7996,Offline
+SO-201185,2024-09-15,Indiranagar,Backpack,Accessories,2,1499,2998,Offline
+SO-201186,2025-09-22,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-201187,2024-03-27,Koramangala,Watch,Accessories,3,5999,17997,Offline
+SO-201188,2025-01-19,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-201189,2025-01-11,Koramangala,Jacket,Apparel,4,3499,13996,Offline
+SO-201190,2024-07-23,Whitefield,Jacket,Apparel,2,3499,6998,Offline
+SO-201191,2024-07-17,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-201192,2024-01-18,Koramangala,Backpack,Accessories,2,1499,2998,Offline
+SO-201193,2024-02-19,Koramangala,T-Shirt,Apparel,4,799,3196,Online
+SO-201194,2025-08-26,JP Nagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201195,2025-02-23,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-201196,2024-10-16,Whitefield,Cap,Accessories,4,499,1996,Online
+SO-201197,2024-11-28,Whitefield,Jeans,Apparel,1,1999,1999,Offline
+SO-201198,2025-04-28,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201199,2025-01-28,Koramangala,Cap,Accessories,1,499,499,Offline
+SO-201200,2024-03-29,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-201201,2025-04-12,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-201202,2024-02-08,Whitefield,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201203,2024-09-11,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201204,2025-05-03,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-201205,2025-09-30,Indiranagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-201206,2024-12-03,JP Nagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201207,2024-09-24,HSR Layout,Backpack,Accessories,2,1499,2998,Offline
+SO-201208,2024-11-29,Indiranagar,Cap,Accessories,4,499,1996,Offline
+SO-201209,2024-06-20,Koramangala,Watch,Accessories,1,5999,5999,Online
+SO-201210,2024-01-20,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-201211,2024-10-18,HSR Layout,T-Shirt,Apparel,5,799,3995,Offline
+SO-201212,2025-03-16,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-201213,2025-01-23,Whitefield,Cap,Accessories,3,499,1497,Offline
+SO-201214,2025-01-27,Koramangala,Backpack,Accessories,4,1499,5996,Offline
+SO-201215,2024-12-05,Indiranagar,T-Shirt,Apparel,5,799,3995,Online
+SO-201216,2024-09-03,Koramangala,T-Shirt,Apparel,3,799,2397,Offline
+SO-201217,2025-09-09,Indiranagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-201218,2024-02-09,Indiranagar,Backpack,Accessories,4,1499,5996,Offline
+SO-201219,2024-02-07,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-201220,2024-10-21,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-201221,2024-11-22,JP Nagar,Jeans,Apparel,4,1999,7996,Online
+SO-201222,2024-03-26,Whitefield,Jeans,Apparel,4,1999,7996,Online
+SO-201223,2025-07-29,Whitefield,Jeans,Apparel,2,1999,3998,Online
+SO-201224,2025-08-03,Whitefield,Cap,Accessories,3,499,1497,Offline
+SO-201225,2024-09-20,Koramangala,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201226,2024-03-01,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-201227,2025-04-04,JP Nagar,T-Shirt,Apparel,2,799,1598,Online
+SO-201228,2024-09-30,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-201229,2024-01-26,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-201230,2024-11-07,HSR Layout,Cap,Accessories,3,499,1497,Offline
+SO-201231,2024-11-16,Indiranagar,Sneakers,Footwear,4,3999,15996,Online
+SO-201232,2024-09-01,HSR Layout,Running Shoes,Footwear,1,2999,2999,Online
+SO-201233,2025-01-06,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-201234,2025-07-02,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-201235,2025-02-15,JP Nagar,Sneakers,Footwear,1,3999,3999,Online
+SO-201236,2025-06-26,Whitefield,Watch,Accessories,4,5999,23996,Offline
+SO-201237,2025-09-30,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201238,2024-01-14,Koramangala,Jacket,Apparel,1,3499,3499,Offline
+SO-201239,2024-05-16,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-201240,2024-04-02,Koramangala,Watch,Accessories,4,5999,23996,Online
+SO-201241,2025-09-06,JP Nagar,Sneakers,Footwear,2,3999,7998,Online
+SO-201242,2024-12-13,Koramangala,Jacket,Apparel,2,3499,6998,Offline
+SO-201243,2024-09-23,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-201244,2024-03-06,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-201245,2024-08-24,JP Nagar,Cap,Accessories,4,499,1996,Offline
+SO-201246,2024-08-11,Whitefield,T-Shirt,Apparel,1,799,799,Offline
+SO-201247,2024-06-16,Indiranagar,Jeans,Apparel,4,1999,7996,Online
+SO-201248,2025-05-23,Whitefield,Sneakers,Footwear,4,3999,15996,Offline
+SO-201249,2024-11-26,Indiranagar,Running Shoes,Footwear,5,2999,14995,Offline
+SO-201250,2024-03-02,HSR Layout,Running Shoes,Footwear,2,2999,5998,Online
+SO-201251,2024-03-24,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-201252,2025-05-15,HSR Layout,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201253,2024-03-18,HSR Layout,Watch,Accessories,1,5999,5999,Offline
+SO-201254,2025-08-21,HSR Layout,Watch,Accessories,3,5999,17997,Online
+SO-201255,2024-07-01,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-201256,2025-07-27,JP Nagar,Jeans,Apparel,4,1999,7996,Offline
+SO-201257,2024-12-18,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-201258,2024-06-07,HSR Layout,T-Shirt,Apparel,4,799,3196,Offline
+SO-201259,2024-10-16,Indiranagar,Running Shoes,Footwear,6,2999,17994,Offline
+SO-201260,2024-01-31,Whitefield,Jacket,Apparel,2,3499,6998,Online
+SO-201261,2024-07-09,Koramangala,T-Shirt,Apparel,2,799,1598,Offline
+SO-201262,2024-11-09,HSR Layout,Jacket,Apparel,3,3499,10497,Online
+SO-201263,2024-11-17,Indiranagar,Watch,Accessories,5,5999,29995,Online
+SO-201264,2024-12-31,HSR Layout,Sneakers,Footwear,4,3999,15996,Offline
+SO-201265,2024-08-07,HSR Layout,Cap,Accessories,4,499,1996,Online
+SO-201266,2024-10-15,JP Nagar,Sneakers,Footwear,5,3999,19995,Offline
+SO-201267,2024-06-13,HSR Layout,Sneakers,Footwear,3,3999,11997,Offline
+SO-201268,2024-11-12,Whitefield,Cap,Accessories,3,499,1497,Offline
+SO-201269,2025-05-17,Indiranagar,T-Shirt,Apparel,1,799,799,Offline
+SO-201270,2024-04-29,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-201271,2024-12-13,HSR Layout,Jacket,Apparel,6,3499,20994,Offline
+SO-201272,2025-03-21,Whitefield,Jacket,Apparel,4,3499,13996,Online
+SO-201273,2024-04-20,JP Nagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-201274,2025-01-09,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201275,2024-12-09,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-201276,2025-05-31,JP Nagar,Jacket,Apparel,1,3499,3499,Offline
+SO-201277,2025-08-06,Whitefield,T-Shirt,Apparel,2,799,1598,Offline
+SO-201278,2025-09-16,Whitefield,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201279,2024-12-20,Whitefield,Cap,Accessories,2,499,998,Offline
+SO-201280,2025-07-18,Whitefield,Watch,Accessories,2,5999,11998,Online
+SO-201281,2024-09-15,Whitefield,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201282,2024-03-24,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-201283,2025-04-23,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-201284,2024-03-05,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201285,2024-03-22,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-201286,2024-04-17,HSR Layout,Sneakers,Footwear,1,3999,3999,Offline
+SO-201287,2024-09-14,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-201288,2024-03-08,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201289,2024-03-24,Koramangala,Jeans,Apparel,2,1999,3998,Offline
+SO-201290,2025-06-06,Whitefield,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201291,2024-06-14,HSR Layout,Jacket,Apparel,4,3499,13996,Online
+SO-201292,2024-11-23,Whitefield,Running Shoes,Footwear,5,2999,14995,Offline
+SO-201293,2024-03-07,Koramangala,Running Shoes,Footwear,2,2999,5998,Online
+SO-201294,2024-02-10,HSR Layout,Backpack,Accessories,1,1499,1499,Online
+SO-201295,2024-01-02,HSR Layout,T-Shirt,Apparel,2,799,1598,Online
+SO-201296,2024-06-12,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201297,2024-03-26,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201298,2025-01-02,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201299,2025-03-01,Whitefield,Jeans,Apparel,1,1999,1999,Offline
+SO-201300,2024-03-30,HSR Layout,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201301,2025-01-29,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201302,2024-11-24,JP Nagar,Running Shoes,Footwear,6,2999,17994,Online
+SO-201303,2024-01-02,Indiranagar,Jeans,Apparel,1,1999,1999,Online
+SO-201304,2025-09-13,Koramangala,Jeans,Apparel,2,1999,3998,Online
+SO-201305,2024-11-30,JP Nagar,Running Shoes,Footwear,3,2999,8997,Online
+SO-201306,2024-05-02,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201307,2024-06-30,Koramangala,Backpack,Accessories,1,1499,1499,Online
+SO-201308,2025-03-06,Indiranagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201309,2025-06-13,JP Nagar,Jeans,Apparel,3,1999,5997,Offline
+SO-201310,2024-01-08,Whitefield,T-Shirt,Apparel,1,799,799,Offline
+SO-201311,2024-09-10,Indiranagar,Sneakers,Footwear,2,3999,7998,Offline
+SO-201312,2025-05-27,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-201313,2024-07-06,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201314,2024-11-07,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-201315,2024-01-20,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201316,2025-08-07,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201317,2025-07-23,HSR Layout,Backpack,Accessories,2,1499,2998,Online
+SO-201318,2024-08-27,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201319,2024-03-16,Whitefield,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201320,2025-07-25,JP Nagar,Jeans,Apparel,1,1999,1999,Online
+SO-201321,2024-10-19,JP Nagar,Cap,Accessories,4,499,1996,Online
+SO-201322,2024-02-27,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-201323,2025-02-06,Koramangala,Running Shoes,Footwear,3,2999,8997,Online
+SO-201324,2024-07-29,Whitefield,Watch,Accessories,2,5999,11998,Offline
+SO-201325,2024-06-01,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-201326,2025-07-28,Koramangala,Backpack,Accessories,1,1499,1499,Offline
+SO-201327,2024-12-05,Whitefield,Jeans,Apparel,4,1999,7996,Offline
+SO-201328,2024-10-30,Indiranagar,T-Shirt,Apparel,5,799,3995,Offline
+SO-201329,2025-06-06,JP Nagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201330,2024-07-16,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-201331,2024-04-25,Koramangala,Watch,Accessories,3,5999,17997,Offline
+SO-201332,2025-03-08,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-201333,2024-01-11,HSR Layout,Jacket,Apparel,3,3499,10497,Online
+SO-201334,2024-04-16,Koramangala,Watch,Accessories,1,5999,5999,Offline
+SO-201335,2025-07-13,Whitefield,Sneakers,Footwear,1,3999,3999,Online
+SO-201336,2025-02-13,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201337,2024-03-12,Whitefield,Backpack,Accessories,2,1499,2998,Online
+SO-201338,2024-06-19,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-201339,2025-01-15,Indiranagar,Cap,Accessories,4,499,1996,Offline
+SO-201340,2024-02-20,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201341,2025-03-11,HSR Layout,Watch,Accessories,2,5999,11998,Offline
+SO-201342,2025-02-12,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-201343,2024-09-20,Indiranagar,T-Shirt,Apparel,1,799,799,Online
+SO-201344,2025-05-20,Koramangala,Cap,Accessories,1,499,499,Online
+SO-201345,2025-01-20,Whitefield,Jacket,Apparel,1,3499,3499,Offline
+SO-201346,2024-08-20,Whitefield,Cap,Accessories,1,499,499,Online
+SO-201347,2024-07-15,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-201348,2025-01-29,Whitefield,Jacket,Apparel,4,3499,13996,Offline
+SO-201349,2024-04-19,JP Nagar,T-Shirt,Apparel,3,799,2397,Online
+SO-201350,2024-01-17,Koramangala,T-Shirt,Apparel,1,799,799,Online
+SO-201351,2025-09-01,Whitefield,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201352,2024-11-22,HSR Layout,Sneakers,Footwear,3,3999,11997,Offline
+SO-201353,2025-01-07,Whitefield,Cap,Accessories,3,499,1497,Online
+SO-201354,2024-09-14,HSR Layout,Jacket,Apparel,3,3499,10497,Online
+SO-201355,2024-02-14,HSR Layout,Jeans,Apparel,2,1999,3998,Online
+SO-201356,2025-01-12,Indiranagar,Jeans,Apparel,3,1999,5997,Online
+SO-201357,2024-12-21,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-201358,2024-06-10,Whitefield,Cap,Accessories,4,499,1996,Offline
+SO-201359,2024-02-09,Koramangala,Jeans,Apparel,4,1999,7996,Offline
+SO-201360,2024-12-22,Indiranagar,Jeans,Apparel,2,1999,3998,Online
+SO-201361,2024-05-27,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-201362,2024-10-12,JP Nagar,Running Shoes,Footwear,6,2999,17994,Offline
+SO-201363,2024-12-12,HSR Layout,Sneakers,Footwear,3,3999,11997,Online
+SO-201364,2024-12-09,HSR Layout,T-Shirt,Apparel,5,799,3995,Online
+SO-201365,2024-03-24,JP Nagar,Backpack,Accessories,4,1499,5996,Offline
+SO-201366,2024-05-08,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-201367,2025-09-28,Whitefield,T-Shirt,Apparel,3,799,2397,Offline
+SO-201368,2024-02-03,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-201369,2025-04-06,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201370,2025-02-22,Indiranagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-201371,2025-02-11,Koramangala,T-Shirt,Apparel,4,799,3196,Online
+SO-201372,2025-06-06,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-201373,2024-01-12,HSR Layout,Sneakers,Footwear,4,3999,15996,Offline
+SO-201374,2025-09-06,Indiranagar,Jeans,Apparel,2,1999,3998,Offline
+SO-201375,2025-09-25,JP Nagar,Jeans,Apparel,1,1999,1999,Online
+SO-201376,2025-08-10,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-201377,2024-10-01,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201378,2024-09-05,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201379,2025-05-27,Koramangala,T-Shirt,Apparel,1,799,799,Offline
+SO-201380,2024-12-24,HSR Layout,Running Shoes,Footwear,4,2999,11996,Online
+SO-201381,2024-09-09,HSR Layout,Cap,Accessories,3,499,1497,Online
+SO-201382,2024-03-03,Whitefield,Jeans,Apparel,3,1999,5997,Offline
+SO-201383,2024-08-09,Koramangala,Jeans,Apparel,3,1999,5997,Online
+SO-201384,2025-02-01,HSR Layout,Watch,Accessories,3,5999,17997,Online
+SO-201385,2024-05-23,Koramangala,Jeans,Apparel,3,1999,5997,Offline
+SO-201386,2025-03-18,HSR Layout,Jacket,Apparel,1,3499,3499,Online
+SO-201387,2024-05-04,Whitefield,Watch,Accessories,4,5999,23996,Online
+SO-201388,2024-03-02,Indiranagar,Sneakers,Footwear,1,3999,3999,Online
+SO-201389,2024-05-21,Whitefield,Backpack,Accessories,3,1499,4497,Online
+SO-201390,2024-02-06,HSR Layout,Cap,Accessories,3,499,1497,Online
+SO-201391,2024-02-10,JP Nagar,Jacket,Apparel,3,3499,10497,Online
+SO-201392,2025-06-20,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-201393,2025-08-01,Koramangala,Backpack,Accessories,2,1499,2998,Offline
+SO-201394,2024-08-18,Indiranagar,T-Shirt,Apparel,2,799,1598,Online
+SO-201395,2024-09-22,Indiranagar,Running Shoes,Footwear,2,2999,5998,Offline
+SO-201396,2024-11-20,Koramangala,Sneakers,Footwear,3,3999,11997,Online
+SO-201397,2024-02-21,HSR Layout,Cap,Accessories,3,499,1497,Online
+SO-201398,2024-06-26,JP Nagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-201399,2024-07-24,Whitefield,Sneakers,Footwear,3,3999,11997,Offline
+SO-201400,2025-05-17,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201401,2025-07-17,HSR Layout,Backpack,Accessories,1,1499,1499,Offline
+SO-201402,2025-03-23,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-201403,2024-11-15,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-201404,2025-03-09,Indiranagar,Sneakers,Footwear,3,3999,11997,Online
+SO-201405,2025-08-20,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201406,2024-01-10,HSR Layout,Cap,Accessories,1,499,499,Online
+SO-201407,2025-01-15,Koramangala,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201408,2025-07-14,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-201409,2025-04-24,Whitefield,Backpack,Accessories,3,1499,4497,Offline
+SO-201410,2024-08-20,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-201411,2025-05-30,Indiranagar,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201412,2024-07-31,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-201413,2024-08-19,HSR Layout,Jeans,Apparel,4,1999,7996,Online
+SO-201414,2024-02-15,Koramangala,Sneakers,Footwear,4,3999,15996,Online
+SO-201415,2024-12-31,HSR Layout,T-Shirt,Apparel,5,799,3995,Online
+SO-201416,2024-11-13,Indiranagar,Cap,Accessories,3,499,1497,Online
+SO-201417,2024-07-10,HSR Layout,Jeans,Apparel,1,1999,1999,Offline
+SO-201418,2025-04-02,Whitefield,Cap,Accessories,2,499,998,Offline
+SO-201419,2025-06-06,Indiranagar,Watch,Accessories,1,5999,5999,Online
+SO-201420,2024-01-17,Koramangala,Jeans,Apparel,1,1999,1999,Online
+SO-201421,2025-08-17,JP Nagar,Backpack,Accessories,3,1499,4497,Offline
+SO-201422,2024-04-16,JP Nagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201423,2025-02-27,JP Nagar,T-Shirt,Apparel,2,799,1598,Online
+SO-201424,2025-04-27,JP Nagar,T-Shirt,Apparel,4,799,3196,Online
+SO-201425,2025-04-03,JP Nagar,Cap,Accessories,3,499,1497,Online
+SO-201426,2025-07-08,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-201427,2024-12-22,Whitefield,Backpack,Accessories,4,1499,5996,Offline
+SO-201428,2024-01-12,Whitefield,Watch,Accessories,2,5999,11998,Offline
+SO-201429,2024-08-06,Whitefield,Watch,Accessories,4,5999,23996,Online
+SO-201430,2024-08-08,Indiranagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201431,2024-10-05,Whitefield,T-Shirt,Apparel,4,799,3196,Online
+SO-201432,2025-03-23,Indiranagar,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201433,2025-02-04,Whitefield,T-Shirt,Apparel,4,799,3196,Offline
+SO-201434,2024-10-30,HSR Layout,Running Shoes,Footwear,6,2999,17994,Online
+SO-201435,2025-04-02,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-201436,2024-02-08,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-201437,2024-04-08,HSR Layout,Jeans,Apparel,1,1999,1999,Online
+SO-201438,2024-02-23,JP Nagar,T-Shirt,Apparel,2,799,1598,Offline
+SO-201439,2024-01-31,Indiranagar,Sneakers,Footwear,2,3999,7998,Online
+SO-201440,2024-12-29,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-201441,2024-11-23,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-201442,2024-09-22,HSR Layout,Jacket,Apparel,1,3499,3499,Online
+SO-201443,2025-04-30,Indiranagar,Jacket,Apparel,4,3499,13996,Offline
+SO-201444,2024-07-02,HSR Layout,Running Shoes,Footwear,1,2999,2999,Offline
+SO-201445,2025-01-07,Indiranagar,Watch,Accessories,3,5999,17997,Online
+SO-201446,2024-05-21,Koramangala,Cap,Accessories,4,499,1996,Offline
+SO-201447,2025-07-25,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-201448,2025-01-14,Koramangala,Watch,Accessories,3,5999,17997,Online
+SO-201449,2024-04-28,Indiranagar,Running Shoes,Footwear,1,2999,2999,Online
+SO-201450,2025-03-07,HSR Layout,Jeans,Apparel,4,1999,7996,Offline
+SO-201451,2024-09-19,Whitefield,T-Shirt,Apparel,3,799,2397,Online
+SO-201452,2024-01-22,Indiranagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-201453,2024-11-11,Indiranagar,T-Shirt,Apparel,3,799,2397,Offline
+SO-201454,2024-10-20,HSR Layout,Cap,Accessories,4,499,1996,Offline
+SO-201455,2025-07-08,Whitefield,Jacket,Apparel,2,3499,6998,Offline
+SO-201456,2024-05-05,Indiranagar,Sneakers,Footwear,3,3999,11997,Offline
+SO-201457,2025-05-17,JP Nagar,T-Shirt,Apparel,1,799,799,Online
+SO-201458,2024-05-18,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-201459,2025-05-21,JP Nagar,Jacket,Apparel,2,3499,6998,Offline
+SO-201460,2024-06-28,JP Nagar,Jacket,Apparel,3,3499,10497,Online
+SO-201461,2025-07-16,JP Nagar,Running Shoes,Footwear,4,2999,11996,Offline
+SO-201462,2024-07-13,HSR Layout,Jacket,Apparel,1,3499,3499,Offline
+SO-201463,2024-02-14,JP Nagar,Jeans,Apparel,2,1999,3998,Online
+SO-201464,2024-02-05,JP Nagar,Jacket,Apparel,1,3499,3499,Online
+SO-201465,2024-05-23,JP Nagar,Running Shoes,Footwear,4,2999,11996,Online
+SO-201466,2024-06-26,Indiranagar,Jeans,Apparel,1,1999,1999,Offline
+SO-201467,2024-05-24,Whitefield,T-Shirt,Apparel,1,799,799,Online
+SO-201468,2024-04-18,Whitefield,Jacket,Apparel,4,3499,13996,Offline
+SO-201469,2025-02-19,Koramangala,Jacket,Apparel,3,3499,10497,Offline
+SO-201470,2025-01-16,Whitefield,Jeans,Apparel,1,1999,1999,Offline
+SO-201471,2025-02-08,Koramangala,Backpack,Accessories,4,1499,5996,Offline
+SO-201472,2024-11-11,HSR Layout,Watch,Accessories,2,5999,11998,Offline
+SO-201473,2025-07-01,Indiranagar,Cap,Accessories,4,499,1996,Online
+SO-201474,2024-12-30,Koramangala,T-Shirt,Apparel,2,799,1598,Online
+SO-201475,2024-09-29,Whitefield,Running Shoes,Footwear,4,2999,11996,Online
+SO-201476,2024-08-06,HSR Layout,Jacket,Apparel,4,3499,13996,Offline
+SO-201477,2024-02-11,Indiranagar,Jeans,Apparel,4,1999,7996,Online
+SO-201478,2024-03-11,HSR Layout,Running Shoes,Footwear,3,2999,8997,Offline
+SO-201479,2025-04-18,Whitefield,Running Shoes,Footwear,3,2999,8997,Online
+SO-201480,2025-01-25,Indiranagar,Cap,Accessories,1,499,499,Offline
+SO-201481,2025-03-25,Koramangala,Running Shoes,Footwear,4,2999,11996,Online
+SO-201482,2025-04-20,JP Nagar,Backpack,Accessories,3,1499,4497,Offline
+SO-201483,2025-08-27,Indiranagar,Running Shoes,Footwear,2,2999,5998,Online
+SO-201484,2024-10-26,HSR Layout,Running Shoes,Footwear,3,2999,8997,Online
+SO-201485,2025-03-17,Whitefield,Backpack,Accessories,1,1499,1499,Online
+SO-201486,2024-08-14,Whitefield,Running Shoes,Footwear,2,2999,5998,Online
+SO-201487,2025-09-03,JP Nagar,T-Shirt,Apparel,1,799,799,Offline
+SO-201488,2025-05-08,Whitefield,Sneakers,Footwear,4,3999,15996,Online
+SO-201489,2024-11-27,JP Nagar,Jeans,Apparel,3,1999,5997,Online
+SO-201490,2024-02-22,Whitefield,Jacket,Apparel,2,3499,6998,Online
+SO-201491,2025-04-12,HSR Layout,Sneakers,Footwear,3,3999,11997,Offline
+SO-201492,2025-05-04,Koramangala,Backpack,Accessories,4,1499,5996,Online
+SO-201493,2024-09-27,Whitefield,Running Shoes,Footwear,1,2999,2999,Online
+SO-201494,2025-06-23,Whitefield,Backpack,Accessories,2,1499,2998,Offline
+SO-201495,2024-05-07,Whitefield,Jeans,Apparel,2,1999,3998,Offline
+SO-201496,2024-12-30,Indiranagar,Jeans,Apparel,6,1999,11994,Online
+SO-201497,2024-12-24,HSR Layout,T-Shirt,Apparel,3,799,2397,Online
+SO-201498,2025-03-30,JP Nagar,Sneakers,Footwear,4,3999,15996,Offline
+SO-201499,2024-08-17,HSR Layout,T-Shirt,Apparel,2,799,1598,Offline
+SO-201500,2024-11-24,Indiranagar,Backpack,Accessories,5,1499,7495,Online
